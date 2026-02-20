@@ -1,0 +1,2688 @@
+- GEN 01:1-25 - Creation of the world
+- GEN 01:26-31 - Creation of humanity
+- GEN 02:1-3 - The seventh day rest
+- GEN 02:4-17 - Man placed in Eden
+- GEN 02:18-25 - Creation of woman
+- GEN 03:1-7 - The temptation and fall
+- GEN 03:8-13 - God confronts Adam and Eve
+- GEN 03:14-19 - The curses pronounced
+- GEN 03:20-24 - Expulsion from Eden
+- GEN 04:1-16 - Cain and Abel
+- GEN 04:17-24 - Line of Cain
+- GEN 04:25-26 - Seth and Enosh
+- GEN 05:1-32 - Genealogy from Adam to Noah
+- GEN 06:1-8 - Wickedness and Noah's favor
+- GEN 06:9-22 - Noah builds the ark
+- GEN 07:1-16 - Entering the ark
+- GEN 07:17-24 - The flood waters
+- GEN 08:1-14 - The waters recede
+- GEN 08:15-22 - Noah exits and sacrifices
+- GEN 09:1-7 - Covenant blessings and commands
+- GEN 09:8-17 - The rainbow covenant
+- GEN 09:18-29 - Noah and his sons
+- GEN 10:1-32 - Table of nations
+- GEN 11:1-9 - Tower of Babel
+- GEN 11:10-26 - Genealogy from Shem to Abram
+- GEN 11:27-32 - Terah's family and departure
+- GEN 12:1-9 - Call of Abram
+- GEN 12:10-20 - Abram in Egypt
+- GEN 13:1-18 - Abram and Lot separate
+- GEN 14:1-16 - Abram rescues Lot
+- GEN 14:17-24 - Melchizedek blesses Abram
+- GEN 15:1-6 - God's promise and Abram's faith
+- GEN 15:7-21 - The covenant ceremony
+- GEN 16:1-6 - Sarai and Hagar
+- GEN 16:7-16 - The angel and Hagar
+- GEN 17:1-14 - Covenant of circumcision
+- GEN 17:15-27 - Promise of Isaac
+- GEN 18:1-15 - Three visitors and Sarah's laughter
+- GEN 18:16-33 - Abraham intercedes for Sodom
+- GEN 19:1-14 - Angels visit Lot in Sodom
+- GEN 19:15-29 - Destruction of Sodom
+- GEN 19:30-38 - Lot and his daughters
+- GEN 20:1-18 - Abraham and Abimelech
+- GEN 21:1-7 - Birth of Isaac
+- GEN 21:8-21 - Hagar and Ishmael sent away
+- GEN 21:22-34 - Treaty with Abimelech
+- GEN 22:1-19 - The binding of Isaac
+- GEN 22:20-24 - Nahor's descendants
+- GEN 23:1-20 - Death and burial of Sarah
+- GEN 24:1-27 - Servant's journey for a bride
+- GEN 24:28-60 - Rebekah's family agrees
+- GEN 24:61-67 - Isaac and Rebekah marry
+- GEN 25:1-11 - Abraham's death
+- GEN 25:12-18 - Ishmael's descendants
+- GEN 25:19-26 - Birth of Esau and Jacob
+- GEN 25:27-34 - Esau sells his birthright
+- GEN 26:1-11 - Isaac and Abimelech
+- GEN 26:12-22 - Disputes over wells
+- GEN 26:23-33 - Covenant at Beersheba
+- GEN 26:34-35 - Esau's wives
+- GEN 27:1-29 - Jacob deceives Isaac
+- GEN 27:30-40 - Esau's blessing
+- GEN 27:41-46 - Jacob flees to Laban
+- GEN 28:1-9 - Isaac sends Jacob away
+- GEN 28:10-22 - Jacob's dream at Bethel
+- GEN 29:1-14 - Jacob meets Rachel
+- GEN 29:15-30 - Jacob marries Leah and Rachel
+- GEN 29:31-35 - Leah's first four sons
+- GEN 30:1-24 - Birth of Jacob's children
+- GEN 30:25-43 - Jacob's flocks increase
+- GEN 31:1-21 - Jacob flees from Laban
+- GEN 31:22-42 - Laban pursues Jacob
+- GEN 31:43-55 - Covenant between Jacob and Laban
+- GEN 32:1-21 - Jacob prepares to meet Esau
+- GEN 32:22-32 - Jacob wrestles at Peniel
+- GEN 33:1-17 - Jacob meets Esau
+- GEN 33:18-20 - Jacob at Shechem
+- GEN 34:1-31 - Dinah and the Shechemites
+- GEN 35:1-15 - Jacob returns to Bethel
+- GEN 35:16-20 - Death of Rachel
+- GEN 35:21-29 - Jacob's sons and Isaac's death
+- GEN 36:1-43 - Descendants of Esau
+- GEN 37:1-11 - Joseph's dreams
+- GEN 37:12-36 - Joseph sold into slavery
+- GEN 38:1-30 - Judah and Tamar
+- GEN 39:1-6 - Joseph in Potiphar's house
+- GEN 39:7-23 - Joseph and Potiphar's wife
+- GEN 40:1-23 - Joseph interprets dreams in prison
+- GEN 41:1-36 - Pharaoh's dreams interpreted
+- GEN 41:37-57 - Joseph made ruler of Egypt
+- GEN 42:1-28 - Joseph's brothers go to Egypt
+- GEN 42:29-38 - Brothers return to Jacob
+- GEN 43:1-14 - Second journey to Egypt
+- GEN 43:15-34 - Brothers feast with Joseph
+- GEN 44:1-17 - The silver cup
+- GEN 44:18-34 - Judah's plea
+- GEN 45:1-15 - Joseph reveals himself
+- GEN 45:16-28 - Invitation to Egypt
+- GEN 46:1-7 - Jacob goes to Egypt
+- GEN 46:8-27 - List of Jacob's family
+- GEN 46:28-34 - Jacob meets Joseph
+- GEN 47:1-12 - Jacob's family settles in Goshen
+- GEN 47:13-26 - Joseph's administration
+- GEN 47:27-31 - Jacob's last request
+- GEN 48:1-22 - Jacob blesses Ephraim and Manasseh
+- GEN 49:1-28 - Jacob blesses his sons
+- GEN 49:29-33 - Death of Jacob
+- GEN 50:1-14 - Burial of Jacob
+- GEN 50:15-21 - Joseph reassures his brothers
+- GEN 50:22-26 - Death of Joseph
+
+## Exodus (EXO)
+
+- EXO 01:1-14 - Israel oppressed in Egypt
+- EXO 01:15-22 - Pharaoh orders male babies killed
+- EXO 02:1-10 - Birth and rescue of Moses
+- EXO 02:11-22 - Moses flees to Midian
+- EXO 02:23-25 - God hears Israel's groaning
+- EXO 03:1-12 - The burning bush
+- EXO 03:13-22 - God reveals his name
+- EXO 04:1-17 - Signs for Moses
+- EXO 04:18-31 - Moses returns to Egypt
+- EXO 05:1-14 - Pharaoh increases burden
+- EXO 05:15-23 - Israel's complaint
+- EXO 06:1-13 - God reassures Moses
+- EXO 06:14-27 - Genealogy of Moses and Aaron
+- EXO 06:28-7:7 - Moses and Aaron before Pharaoh
+- EXO 07:8-13 - Aaron's staff becomes a serpent
+- EXO 07:14-25 - First plague: water to blood
+- EXO 08:1-15 - Second plague: frogs
+- EXO 08:16-19 - Third plague: gnats
+- EXO 08:20-32 - Fourth plague: flies
+- EXO 09:1-7 - Fifth plague: livestock disease
+- EXO 09:8-12 - Sixth plague: boils
+- EXO 09:13-35 - Seventh plague: hail
+- EXO 10:1-20 - Eighth plague: locusts
+- EXO 10:21-29 - Ninth plague: darkness
+- EXO 11:1-10 - Tenth plague announced
+- EXO 12:1-28 - The Passover instituted
+- EXO 12:29-42 - The exodus begins
+- EXO 12:43-51 - Passover regulations
+- EXO 13:1-16 - Consecration of firstborn
+- EXO 13:17-22 - Pillar of cloud and fire
+- EXO 14:1-14 - Israel trapped at the sea
+- EXO 14:15-31 - Crossing the Red Sea
+- EXO 15:1-21 - Song of Moses and Miriam
+- EXO 15:22-27 - Bitter water at Marah
+- EXO 16:1-21 - Manna from heaven
+- EXO 16:22-36 - Sabbath rest and manna
+- EXO 17:1-7 - Water from the rock
+- EXO 17:8-16 - Victory over Amalek
+- EXO 18:1-12 - Jethro visits Moses
+- EXO 18:13-27 - Jethro's advice on judges
+- EXO 19:1-15 - Israel at Sinai
+- EXO 19:16-25 - God descends on Sinai
+- EXO 20:1-17 - The Ten Commandments
+- EXO 20:18-26 - The people's fear
+- EXO 21:1-11 - Laws about servants
+- EXO 21:12-27 - Laws about personal injury
+- EXO 21:28-36 - Laws about property damage
+- EXO 22:1-15 - Laws about restitution
+- EXO 22:16-31 - Social and religious laws
+- EXO 23:1-9 - Laws of justice and mercy
+- EXO 23:10-19 - Sabbath and festivals
+- EXO 23:20-33 - Angel to guide Israel
+- EXO 24:1-11 - Covenant confirmed
+- EXO 24:12-18 - Moses on the mountain
+- EXO 25:1-9 - Offerings for the tabernacle
+- EXO 25:10-22 - The ark of the covenant
+- EXO 25:23-30 - The table for bread
+- EXO 25:31-40 - The golden lampstand
+- EXO 26:1-14 - The tabernacle curtains
+- EXO 26:15-30 - The tabernacle frames
+- EXO 26:31-37 - The veil and screen
+- EXO 27:1-8 - The bronze altar
+- EXO 27:9-19 - The courtyard
+- EXO 27:20-21 - Oil for the lampstand
+- EXO 28:1-14 - Priestly garments
+- EXO 28:15-30 - The breastpiece
+- EXO 28:31-43 - Robe, turban, and garments
+- EXO 29:1-18 - Consecration of priests
+- EXO 29:19-37 - Ordination offerings
+- EXO 29:38-46 - Daily offerings
+- EXO 30:1-10 - The altar of incense
+- EXO 30:11-16 - The census tax
+- EXO 30:17-21 - The bronze basin
+- EXO 30:22-33 - The anointing oil
+- EXO 30:34-38 - The incense
+- EXO 31:1-11 - Craftsmen for the tabernacle
+- EXO 31:12-18 - The Sabbath sign
+- EXO 32:1-14 - The golden calf
+- EXO 32:15-29 - Moses' anger and judgment
+- EXO 32:30-35 - Moses intercedes
+- EXO 33:1-6 - Command to leave Sinai
+- EXO 33:7-11 - The tent of meeting
+- EXO 33:12-23 - Moses asks to see God's glory
+- EXO 34:1-9 - New tablets and God's character
+- EXO 34:10-28 - Covenant renewed
+- EXO 34:29-35 - Moses' radiant face
+- EXO 35:1-3 - Sabbath regulations
+- EXO 35:4-29 - Materials for the tabernacle
+- EXO 35:30-36:7 - Craftsmen begin work
+- EXO 36:8-38 - Making the tabernacle
+- EXO 37:1-9 - Making the ark
+- EXO 37:10-16 - Making the table
+- EXO 37:17-24 - Making the lampstand
+- EXO 37:25-29 - Making the incense altar
+- EXO 38:1-7 - Making the bronze altar
+- EXO 38:8 - Making the bronze basin
+- EXO 38:9-20 - Making the courtyard
+- EXO 38:21-31 - Materials used
+- EXO 39:1-31 - Making the priestly garments
+- EXO 39:32-43 - Work completed
+- EXO 40:1-16 - Instructions for setting up
+- EXO 40:17-33 - Tabernacle erected
+- EXO 40:34-38 - Glory fills the tabernacle
+
+## Leviticus (LEV)
+
+- LEV 01:1-9 - Burnt offering from the herd
+- LEV 01:10-13 - Burnt offering from the flock
+- LEV 01:14-17 - Burnt offering of birds
+- LEV 02:1-10 - Grain offering
+- LEV 02:11-16 - Grain offering regulations
+- LEV 03:1-5 - Peace offering from the herd
+- LEV 03:6-17 - Peace offering from the flock
+- LEV 04:1-12 - Sin offering for the priest
+- LEV 04:13-21 - Sin offering for the congregation
+- LEV 04:22-26 - Sin offering for a leader
+- LEV 04:27-35 - Sin offering for a commoner
+- LEV 05:1-13 - Specific cases requiring sin offering
+- LEV 05:14-19 - Guilt offering for holy things
+- LEV 06:1-7 - Guilt offering for deception
+- LEV 06:8-13 - Instructions for burnt offering
+- LEV 06:14-23 - Instructions for grain offering
+- LEV 06:24-30 - Instructions for sin offering
+- LEV 07:1-10 - Instructions for guilt offering
+- LEV 07:11-21 - Instructions for peace offering
+- LEV 07:22-27 - Prohibition of fat and blood
+- LEV 07:28-38 - Portions for priests
+- LEV 08:1-13 - Ordination of Aaron and sons
+- LEV 08:14-30 - Ordination offerings
+- LEV 08:31-36 - Seven days of ordination
+- LEV 09:1-21 - Aaron's first offerings
+- LEV 09:22-24 - Glory appears, fire consumes
+- LEV 10:1-7 - Death of Nadab and Abihu
+- LEV 10:8-20 - Regulations for priests
+- LEV 11:1-23 - Clean and unclean animals
+- LEV 11:24-47 - Uncleanness from carcasses
+- LEV 12:1-8 - Purification after childbirth
+- LEV 13:1-17 - Diagnosing skin diseases
+- LEV 13:18-46 - Various skin conditions
+- LEV 13:47-59 - Mold in clothing
+- LEV 14:1-20 - Cleansing from skin disease
+- LEV 14:21-32 - Cleansing for the poor
+- LEV 14:33-57 - Mold in houses
+- LEV 15:1-18 - Male discharges
+- LEV 15:19-33 - Female discharges
+- LEV 16:1-10 - Day of Atonement preparation
+- LEV 16:11-22 - Day of Atonement ritual
+- LEV 16:23-34 - Day of Atonement completion
+- LEV 17:1-9 - Sacrifices at the tabernacle only
+- LEV 17:10-16 - Prohibition of eating blood
+- LEV 18:1-18 - Unlawful sexual relations
+- LEV 18:19-30 - Other forbidden practices
+- LEV 19:1-8 - Call to holiness
+- LEV 19:9-18 - Social laws and love of neighbor
+- LEV 19:19-37 - Various laws for holy living
+- LEV 20:1-9 - Penalties for Molech worship
+- LEV 20:10-21 - Penalties for sexual sins
+- LEV 20:22-27 - Call to distinction
+- LEV 21:1-15 - Rules for priests
+- LEV 21:16-24 - Disqualifications for priests
+- LEV 22:1-16 - Eating holy things
+- LEV 22:17-33 - Acceptable offerings
+- LEV 23:1-3 - The Sabbath
+- LEV 23:4-14 - Passover and Firstfruits
+- LEV 23:15-22 - Feast of Weeks
+- LEV 23:23-25 - Feast of Trumpets
+- LEV 23:26-32 - Day of Atonement
+- LEV 23:33-44 - Feast of Booths
+- LEV 24:1-9 - Lamp and bread in the sanctuary
+- LEV 24:10-23 - Punishment for blasphemy
+- LEV 25:1-7 - The Sabbath year
+- LEV 25:8-22 - The Year of Jubilee
+- LEV 25:23-34 - Redemption of property
+- LEV 25:35-55 - Redemption of persons
+- LEV 26:1-13 - Blessings for obedience
+- LEV 26:14-39 - Punishments for disobedience
+- LEV 26:40-46 - Promise of restoration
+- LEV 27:1-13 - Vows concerning persons
+- LEV 27:14-25 - Vows concerning property
+- LEV 27:26-34 - Things not to be vowed
+
+## Numbers (NUM)
+
+- NUM 01:1-19 - Census commanded
+- NUM 01:20-46 - Tribal counts
+- NUM 01:47-54 - Levites exempted
+- NUM 02:1-34 - Arrangement of the camp
+- NUM 03:1-13 - The Levites set apart
+- NUM 03:14-39 - Census of Levites
+- NUM 03:40-51 - Redemption of firstborn
+- NUM 04:1-20 - Duties of Kohathites
+- NUM 04:21-33 - Duties of Gershonites and Merarites
+- NUM 04:34-49 - Census of Levites for service
+- NUM 05:1-10 - Uncleanness and restitution
+- NUM 05:11-31 - Test for adultery
+- NUM 06:1-21 - The Nazirite vow
+- NUM 06:22-27 - The priestly blessing
+- NUM 07:1-11 - Offerings for the tabernacle
+- NUM 07:12-89 - Tribal offerings at dedication
+- NUM 08:1-4 - Setting up the lamps
+- NUM 08:5-26 - Consecration of Levites
+- NUM 09:1-14 - Passover observed
+- NUM 09:15-23 - The cloud guides Israel
+- NUM 10:1-10 - The silver trumpets
+- NUM 10:11-36 - Israel leaves Sinai
+- NUM 11:1-9 - Complaints and fire
+- NUM 11:10-23 - Moses' burden and God's provision
+- NUM 11:24-35 - Elders prophesy, quail sent
+- NUM 12:1-16 - Miriam and Aaron oppose Moses
+- NUM 13:1-25 - Spies sent into Canaan
+- NUM 13:26-33 - Report of the spies
+- NUM 14:1-12 - Israel rebels
+- NUM 14:13-25 - Moses intercedes
+- NUM 14:26-45 - Judgment on the generation
+- NUM 15:1-21 - Laws about offerings
+- NUM 15:22-31 - Offerings for unintentional sins
+- NUM 15:32-36 - Sabbath-breaker punished
+- NUM 15:37-41 - Tassels on garments
+- NUM 16:1-22 - Korah's rebellion
+- NUM 16:23-40 - Judgment on Korah
+- NUM 16:41-50 - Plague stopped by Aaron
+- NUM 17:1-13 - Aaron's staff buds
+- NUM 18:1-7 - Duties of priests and Levites
+- NUM 18:8-20 - Portion for priests
+- NUM 18:21-32 - Portion for Levites
+- NUM 19:1-10 - The red heifer
+- NUM 19:11-22 - Purification from defilement
+- NUM 20:1-13 - Water from the rock at Meribah
+- NUM 20:14-21 - Edom refuses passage
+- NUM 20:22-29 - Death of Aaron
+- NUM 21:1-3 - Victory over Arad
+- NUM 21:4-9 - The bronze serpent
+- NUM 21:10-20 - Journey to Moab
+- NUM 21:21-35 - Defeat of Sihon and Og
+- NUM 22:1-20 - Balak summons Balaam
+- NUM 22:21-41 - Balaam's donkey
+- NUM 23:1-12 - Balaam's first oracle
+- NUM 23:13-26 - Balaam's second oracle
+- NUM 23:27-24:14 - Balaam's third oracle
+- NUM 24:15-25 - Balaam's fourth oracle
+- NUM 25:1-9 - Sin at Peor
+- NUM 25:10-18 - Phinehas' zeal
+- NUM 26:1-51 - Second census of Israel
+- NUM 26:52-65 - Instructions for land division
+- NUM 27:1-11 - Daughters of Zelophehad
+- NUM 27:12-23 - Joshua appointed successor
+- NUM 28:1-8 - Daily offerings
+- NUM 28:9-15 - Sabbath and monthly offerings
+- NUM 28:16-25 - Passover offerings
+- NUM 28:26-31 - Feast of Weeks offerings
+- NUM 29:1-6 - Feast of Trumpets offerings
+- NUM 29:7-11 - Day of Atonement offerings
+- NUM 29:12-40 - Feast of Booths offerings
+- NUM 30:1-16 - Laws about vows
+- NUM 31:1-24 - War against Midian
+- NUM 31:25-54 - Division of spoils
+- NUM 32:1-27 - Reuben and Gad settle east
+- NUM 32:28-42 - Agreement confirmed
+- NUM 33:1-49 - Summary of Israel's journey
+- NUM 33:50-56 - Instructions for Canaan
+- NUM 34:1-15 - Boundaries of the land
+- NUM 34:16-29 - Leaders to divide the land
+- NUM 35:1-8 - Cities for Levites
+- NUM 35:9-34 - Cities of refuge
+- NUM 36:1-13 - Inheritance of married daughters
+
+## Deuteronomy (DEU)
+
+- DEU 01:1-8 - Introduction to Moses' speech
+- DEU 01:9-18 - Appointment of leaders
+- DEU 01:19-33 - Rebellion at Kadesh recalled
+- DEU 01:34-46 - Judgment on that generation
+- DEU 02:1-15 - Wandering in the wilderness
+- DEU 02:16-25 - Passing through Moab and Ammon
+- DEU 02:26-37 - Defeat of Sihon
+- DEU 03:1-11 - Defeat of Og
+- DEU 03:12-22 - Division of the land east of Jordan
+- DEU 03:23-29 - Moses forbidden to enter the land
+- DEU 04:1-14 - Call to obedience
+- DEU 04:15-31 - Warning against idolatry
+- DEU 04:32-40 - The Lord is God
+- DEU 04:41-43 - Cities of refuge
+- DEU 04:44-49 - Introduction to the law
+- DEU 05:1-21 - The Ten Commandments restated
+- DEU 05:22-33 - Moses as mediator
+- DEU 06:1-9 - The great commandment
+- DEU 06:10-19 - Warning against forgetting God
+- DEU 06:20-25 - Teaching children
+- DEU 07:1-11 - Driving out the nations
+- DEU 07:12-26 - Blessings of obedience
+- DEU 08:1-10 - Remember God's provision
+- DEU 08:11-20 - Warning against pride
+- DEU 09:1-6 - Not because of righteousness
+- DEU 09:7-29 - Israel's rebellion recalled
+- DEU 10:1-11 - New tablets of stone
+- DEU 10:12-22 - What the Lord requires
+- DEU 11:1-17 - Love and obey the Lord
+- DEU 11:18-25 - Teach these words
+- DEU 11:26-32 - Blessing and curse
+- DEU 12:1-14 - One place for worship
+- DEU 12:15-28 - Eating meat
+- DEU 12:29-32 - Warning against pagan practices
+- DEU 13:1-5 - False prophets
+- DEU 13:6-11 - Enticement to idolatry
+- DEU 13:12-18 - Apostate cities
+- DEU 14:1-21 - Clean and unclean food
+- DEU 14:22-29 - Tithes
+- DEU 15:1-11 - The year of release
+- DEU 15:12-18 - Release of servants
+- DEU 15:19-23 - Firstborn animals
+- DEU 16:1-8 - Passover
+- DEU 16:9-12 - Feast of Weeks
+- DEU 16:13-17 - Feast of Booths
+- DEU 16:18-20 - Justice for all
+- DEU 16:21-17:7 - Forbidden worship
+- DEU 17:8-13 - Legal decisions
+- DEU 17:14-20 - Laws for kings
+- DEU 18:1-8 - Provision for Levites
+- DEU 18:9-14 - Forbidden practices
+- DEU 18:15-22 - A prophet like Moses
+- DEU 19:1-13 - Cities of refuge
+- DEU 19:14 - Property boundaries
+- DEU 19:15-21 - Witnesses
+- DEU 20:1-9 - Going to war
+- DEU 20:10-20 - Rules of warfare
+- DEU 21:1-9 - Unsolved murder
+- DEU 21:10-14 - Captive women
+- DEU 21:15-17 - Rights of the firstborn
+- DEU 21:18-21 - Rebellious son
+- DEU 21:22-23 - Body on a tree
+- DEU 22:1-12 - Various laws
+- DEU 22:13-30 - Laws on sexual purity
+- DEU 23:1-8 - Exclusions from the assembly
+- DEU 23:9-14 - Purity in the camp
+- DEU 23:15-25 - Various laws
+- DEU 24:1-4 - Divorce and remarriage
+- DEU 24:5-22 - Protection for the vulnerable
+- DEU 25:1-4 - Justice and mercy
+- DEU 25:5-10 - Levirate marriage
+- DEU 25:11-19 - Various laws
+- DEU 26:1-11 - Offering of firstfruits
+- DEU 26:12-15 - Declaration for tithes
+- DEU 26:16-19 - Covenant commitment
+- DEU 27:1-10 - Altar on Mount Ebal
+- DEU 27:11-26 - Curses from Mount Ebal
+- DEU 28:1-14 - Blessings for obedience
+- DEU 28:15-68 - Curses for disobedience
+- DEU 29:1-15 - Covenant renewed in Moab
+- DEU 29:16-29 - Warning against apostasy
+- DEU 30:1-10 - Restoration promised
+- DEU 30:11-20 - Choose life
+- DEU 31:1-8 - Joshua commissioned
+- DEU 31:9-13 - Reading of the law
+- DEU 31:14-23 - The Lord commissions Joshua
+- DEU 31:24-29 - The law placed by the ark
+- DEU 31:30-32:43 - Song of Moses
+- DEU 32:44-52 - Moses to view the land
+- DEU 33:1-29 - Moses blesses the tribes
+- DEU 34:1-12 - Death of Moses
+
+## Joshua (JOS)
+
+- JOS 01:1-9 - God commissions Joshua
+- JOS 01:10-18 - Joshua commands the people
+- JOS 02:1-14 - Rahab hides the spies
+- JOS 02:15-24 - Spies return to Joshua
+- JOS 03:1-13 - Preparing to cross the Jordan
+- JOS 03:14-17 - Crossing the Jordan
+- JOS 04:1-14 - Memorial stones
+- JOS 04:15-24 - Crossing completed
+- JOS 05:1-9 - Circumcision at Gilgal
+- JOS 05:10-12 - Passover at Gilgal
+- JOS 05:13-15 - Commander of the Lord's army
+- JOS 06:1-14 - Instructions for Jericho
+- JOS 06:15-27 - Fall of Jericho
+- JOS 07:1-15 - Sin of Achan
+- JOS 07:16-26 - Judgment of Achan
+- JOS 08:1-29 - Conquest of Ai
+- JOS 08:30-35 - Covenant renewed at Ebal
+- JOS 09:1-15 - Gibeonite deception
+- JOS 09:16-27 - Gibeonites made servants
+- JOS 10:1-15 - Sun stands still
+- JOS 10:16-28 - Five kings executed
+- JOS 10:29-43 - Southern campaign
+- JOS 11:1-15 - Northern campaign
+- JOS 11:16-23 - Summary of conquest
+- JOS 12:1-6 - Kings east of Jordan
+- JOS 12:7-24 - Kings west of Jordan
+- JOS 13:1-7 - Land remaining
+- JOS 13:8-33 - Eastern tribal allotments
+- JOS 14:1-5 - Beginning western allotments
+- JOS 14:6-15 - Caleb's inheritance
+- JOS 15:1-12 - Boundaries of Judah
+- JOS 15:13-19 - Caleb's conquest
+- JOS 15:20-63 - Cities of Judah
+- JOS 16:1-10 - Territory of Ephraim
+- JOS 17:1-13 - Territory of Manasseh
+- JOS 17:14-18 - Joseph's complaint
+- JOS 18:1-10 - Survey of remaining land
+- JOS 18:11-28 - Territory of Benjamin
+- JOS 19:1-9 - Territory of Simeon
+- JOS 19:10-16 - Territory of Zebulun
+- JOS 19:17-23 - Territory of Issachar
+- JOS 19:24-31 - Territory of Asher
+- JOS 19:32-39 - Territory of Naphtali
+- JOS 19:40-48 - Territory of Dan
+- JOS 19:49-51 - Joshua's inheritance
+- JOS 20:1-9 - Cities of refuge
+- JOS 21:1-42 - Cities for Levites
+- JOS 21:43-45 - Summary of God's faithfulness
+- JOS 22:1-9 - Eastern tribes return home
+- JOS 22:10-20 - Altar of witness controversy
+- JOS 22:21-34 - Conflict resolved
+- JOS 23:1-16 - Joshua's farewell address
+- JOS 24:1-13 - Covenant at Shechem
+- JOS 24:14-28 - Israel's commitment
+- JOS 24:29-33 - Deaths of Joshua and Eleazar
+
+## Judges (JDG)
+
+- JDG 01:1-21 - Judah's conquests
+- JDG 01:22-36 - Incomplete conquests
+- JDG 02:1-5 - Angel at Bochim
+- JDG 02:6-15 - Death of Joshua's generation
+- JDG 02:16-23 - Pattern of the judges
+- JDG 03:1-6 - Nations remaining
+- JDG 03:7-11 - Othniel
+- JDG 03:12-30 - Ehud
+- JDG 03:31 - Shamgar
+- JDG 04:1-11 - Deborah and Barak
+- JDG 04:12-24 - Victory over Sisera
+- JDG 05:1-31 - Song of Deborah
+- JDG 06:1-10 - Midianite oppression
+- JDG 06:11-24 - Call of Gideon
+- JDG 06:25-32 - Gideon destroys the altar
+- JDG 06:33-40 - The fleece
+- JDG 07:1-8 - Reduction of Gideon's army
+- JDG 07:9-18 - Gideon's encouragement
+- JDG 07:19-25 - Victory over Midian
+- JDG 08:1-21 - Gideon pursues the kings
+- JDG 08:22-35 - Gideon's ephod and death
+- JDG 09:1-21 - Abimelech becomes king
+- JDG 09:22-49 - Rebellion against Abimelech
+- JDG 09:50-57 - Death of Abimelech
+- JDG 10:1-5 - Tola and Jair
+- JDG 10:6-18 - Israel oppressed
+- JDG 11:1-11 - Jephthah called
+- JDG 11:12-28 - Jephthah's message to Ammon
+- JDG 11:29-40 - Jephthah's vow
+- JDG 12:1-7 - Conflict with Ephraim
+- JDG 12:8-15 - Ibzan, Elon, Abdon
+- JDG 13:1-7 - Announcement of Samson's birth
+- JDG 13:8-25 - Angel appears again
+- JDG 14:1-9 - Samson and the lion
+- JDG 14:10-20 - Samson's riddle
+- JDG 15:1-8 - Samson's revenge
+- JDG 15:9-20 - Jawbone of a donkey
+- JDG 16:1-3 - Samson at Gaza
+- JDG 16:4-22 - Samson and Delilah
+- JDG 16:23-31 - Death of Samson
+- JDG 17:1-13 - Micah's idols
+- JDG 18:1-13 - Danites seek territory
+- JDG 18:14-31 - Danites take Micah's idols
+- JDG 19:1-15 - Levite and his concubine
+- JDG 19:16-30 - Outrage at Gibeah
+- JDG 20:1-17 - Israel assembles against Benjamin
+- JDG 20:18-48 - War against Benjamin
+- JDG 21:1-15 - Wives for Benjamin
+- JDG 21:16-25 - More wives for Benjamin
+
+## Ruth (RUT)
+
+- RUT 01:1-5 - Elimelech's family in Moab
+- RUT 01:6-18 - Ruth clings to Naomi
+- RUT 01:19-22 - Return to Bethlehem
+- RUT 02:1-7 - Ruth meets Boaz
+- RUT 02:8-17 - Boaz's kindness to Ruth
+- RUT 02:18-23 - Ruth reports to Naomi
+- RUT 03:1-9 - Ruth at the threshing floor
+- RUT 03:10-18 - Boaz promises redemption
+- RUT 04:1-12 - Boaz redeems Ruth
+- RUT 04:13-22 - Genealogy of David
+
+## 1 Samuel (1SA)
+
+- 1SA 01:1-8 - Hannah's barrenness
+- 1SA 01:9-20 - Hannah's prayer and vow
+- 1SA 01:21-28 - Samuel dedicated
+- 1SA 02:1-11 - Hannah's song
+- 1SA 02:12-17 - Wickedness of Eli's sons
+- 1SA 02:18-26 - Samuel grows
+- 1SA 02:27-36 - Prophecy against Eli's house
+- 1SA 03:1-14 - The Lord calls Samuel
+- 1SA 03:15-21 - Samuel recognized as prophet
+- 1SA 04:1-11 - Ark captured
+- 1SA 04:12-22 - Death of Eli
+- 1SA 05:1-12 - Ark in Philistia
+- 1SA 06:1-12 - Return of the ark
+- 1SA 06:13-21 - Ark at Beth-shemesh
+- 1SA 07:1-6 - Ark at Kiriath-jearim
+- 1SA 07:7-14 - Victory at Mizpah
+- 1SA 07:15-17 - Samuel judges Israel
+- 1SA 08:1-9 - Israel demands a king
+- 1SA 08:10-22 - Warning about kingship
+- 1SA 09:1-14 - Saul searches for donkeys
+- 1SA 09:15-27 - Samuel meets Saul
+- 1SA 10:1-8 - Saul anointed
+- 1SA 10:9-16 - Saul among the prophets
+- 1SA 10:17-27 - Saul chosen by lot
+- 1SA 11:1-11 - Saul delivers Jabesh
+- 1SA 11:12-15 - Saul's kingship confirmed
+- 1SA 12:1-15 - Samuel's farewell speech
+- 1SA 12:16-25 - Thunder confirms Samuel's words
+- 1SA 13:1-7 - Philistine threat
+- 1SA 13:8-15 - Saul's unlawful sacrifice
+- 1SA 13:16-23 - Israel's weakness
+- 1SA 14:1-15 - Jonathan attacks the outpost
+- 1SA 14:16-23 - Philistines routed
+- 1SA 14:24-35 - Saul's rash oath
+- 1SA 14:36-46 - Jonathan spared
+- 1SA 14:47-52 - Summary of Saul's reign
+- 1SA 15:1-9 - Saul defeats Amalek
+- 1SA 15:10-23 - Saul rebuked
+- 1SA 15:24-35 - Saul rejected as king
+- 1SA 16:1-13 - David anointed
+- 1SA 16:14-23 - David serves Saul
+- 1SA 17:1-11 - Goliath's challenge
+- 1SA 17:12-30 - David arrives at the camp
+- 1SA 17:31-40 - David prepares to fight
+- 1SA 17:41-54 - David kills Goliath
+- 1SA 17:55-58 - David before Saul
+- 1SA 18:1-9 - Jonathan's friendship, Saul's jealousy
+- 1SA 18:10-19 - Saul tries to kill David
+- 1SA 18:20-30 - David marries Michal
+- 1SA 19:1-10 - Saul's attempts on David's life
+- 1SA 19:11-24 - David escapes
+- 1SA 20:1-23 - David and Jonathan's covenant
+- 1SA 20:24-42 - Jonathan warns David
+- 1SA 21:1-9 - David at Nob
+- 1SA 21:10-15 - David flees to Gath
+- 1SA 22:1-5 - David at Adullam
+- 1SA 22:6-23 - Saul kills the priests
+- 1SA 23:1-14 - David saves Keilah
+- 1SA 23:15-29 - Saul pursues David
+- 1SA 24:1-15 - David spares Saul
+- 1SA 24:16-22 - Saul acknowledges David
+- 1SA 25:1 - Death of Samuel
+- 1SA 25:2-17 - Nabal's insult
+- 1SA 25:18-35 - Abigail's wisdom
+- 1SA 25:36-44 - Death of Nabal
+- 1SA 26:1-12 - David spares Saul again
+- 1SA 26:13-25 - David confronts Saul
+- 1SA 27:1-12 - David among the Philistines
+- 1SA 28:1-7 - Philistines prepare for war
+- 1SA 28:8-25 - Saul and the medium at Endor
+- 1SA 29:1-11 - Philistines reject David
+- 1SA 30:1-10 - Amalekites raid Ziklag
+- 1SA 30:11-20 - David recovers everything
+- 1SA 30:21-31 - Dividing the spoil
+- 1SA 31:1-13 - Death of Saul
+
+## 2 Samuel (2SA)
+
+- 2SA 01:1-16 - News of Saul's death
+- 2SA 01:17-27 - David's lament
+- 2SA 02:1-7 - David anointed over Judah
+- 2SA 02:8-11 - Ish-bosheth made king
+- 2SA 02:12-32 - War between houses
+- 2SA 03:1-11 - David's sons; Abner defects
+- 2SA 03:12-21 - Abner makes peace
+- 2SA 03:22-39 - Joab kills Abner
+- 2SA 04:1-12 - Murder of Ish-bosheth
+- 2SA 05:1-5 - David king over all Israel
+- 2SA 05:6-16 - David takes Jerusalem
+- 2SA 05:17-25 - Victories over Philistines
+- 2SA 06:1-11 - Bringing up the ark
+- 2SA 06:12-23 - Ark brought to Jerusalem
+- 2SA 07:1-17 - The Davidic covenant
+- 2SA 07:18-29 - David's prayer
+- 2SA 08:1-14 - David's victories
+- 2SA 08:15-18 - David's officials
+- 2SA 09:1-13 - David's kindness to Mephibosheth
+- 2SA 10:1-19 - War with Ammon and Aram
+- 2SA 11:1-13 - David and Bathsheba
+- 2SA 11:14-27 - Death of Uriah
+- 2SA 12:1-14 - Nathan confronts David
+- 2SA 12:15-25 - Death of the child, Solomon born
+- 2SA 12:26-31 - Capture of Rabbah
+- 2SA 13:1-22 - Amnon and Tamar
+- 2SA 13:23-39 - Absalom kills Amnon
+- 2SA 14:1-24 - Joab brings Absalom back
+- 2SA 14:25-33 - Absalom reconciled
+- 2SA 15:1-12 - Absalom's conspiracy
+- 2SA 15:13-37 - David flees Jerusalem
+- 2SA 16:1-14 - Ziba and Shimei
+- 2SA 16:15-23 - Absalom enters Jerusalem
+- 2SA 17:1-14 - Hushai defeats Ahithophel's counsel
+- 2SA 17:15-29 - David crosses the Jordan
+- 2SA 18:1-18 - Death of Absalom
+- 2SA 18:19-33 - David mourns Absalom
+- 2SA 19:1-15 - David's return
+- 2SA 19:16-30 - David's mercy to enemies
+- 2SA 19:31-43 - Conflict over the king
+- 2SA 20:1-13 - Sheba's rebellion
+- 2SA 20:14-26 - Sheba killed
+- 2SA 21:1-14 - Famine and the Gibeonites
+- 2SA 21:15-22 - Wars with Philistines
+- 2SA 22:1-51 - David's song of deliverance
+- 2SA 23:1-7 - David's last words
+- 2SA 23:8-39 - David's mighty men
+- 2SA 24:1-9 - David's census
+- 2SA 24:10-17 - Plague on Israel
+- 2SA 24:18-25 - David's altar
+
+## 1 Kings (1KI)
+
+- 1KI 01:1-10 - Adonijah sets himself up
+- 1KI 01:11-27 - Nathan and Bathsheba act
+- 1KI 01:28-40 - Solomon made king
+- 1KI 01:41-53 - Adonijah submits
+- 1KI 02:1-12 - David's charge and death
+- 1KI 02:13-25 - Adonijah put to death
+- 1KI 02:26-35 - Solomon secures his kingdom
+- 1KI 02:36-46 - Shimei executed
+- 1KI 03:1-15 - Solomon asks for wisdom
+- 1KI 03:16-28 - Solomon's wise judgment
+- 1KI 04:1-19 - Solomon's officials
+- 1KI 04:20-34 - Solomon's wisdom and wealth
+- 1KI 05:1-18 - Preparations for the temple
+- 1KI 06:1-13 - Building the temple
+- 1KI 06:14-38 - Temple interior
+- 1KI 07:1-12 - Solomon's palace
+- 1KI 07:13-47 - Temple furnishings
+- 1KI 07:48-51 - Golden furnishings
+- 1KI 08:1-21 - Ark brought to the temple
+- 1KI 08:22-53 - Solomon's prayer of dedication
+- 1KI 08:54-66 - Solomon blesses the people
+- 1KI 09:1-9 - God appears to Solomon
+- 1KI 09:10-28 - Solomon's other activities
+- 1KI 10:1-13 - Queen of Sheba visits
+- 1KI 10:14-29 - Solomon's splendor
+- 1KI 11:1-13 - Solomon's wives and apostasy
+- 1KI 11:14-25 - Adversaries raised up
+- 1KI 11:26-40 - Jeroboam's rebellion
+- 1KI 11:41-43 - Death of Solomon
+- 1KI 12:1-15 - Rehoboam's folly
+- 1KI 12:16-24 - Kingdom divided
+- 1KI 12:25-33 - Jeroboam's golden calves
+- 1KI 13:1-10 - Man of God from Judah
+- 1KI 13:11-34 - The old prophet's deception
+- 1KI 14:1-20 - Judgment on Jeroboam
+- 1KI 14:21-31 - Rehoboam's reign
+- 1KI 15:1-8 - Abijam's reign
+- 1KI 15:9-24 - Asa's reign
+- 1KI 15:25-32 - Nadab's reign
+- 1KI 15:33-16:7 - Baasha's reign
+- 1KI 16:8-14 - Elah and Zimri
+- 1KI 16:15-28 - Omri's reign
+- 1KI 16:29-34 - Ahab's wickedness
+- 1KI 17:1-7 - Elijah and the drought
+- 1KI 17:8-16 - Elijah and the widow
+- 1KI 17:17-24 - Elijah raises the widow's son
+- 1KI 18:1-19 - Elijah confronts Obadiah and Ahab
+- 1KI 18:20-40 - Contest on Mount Carmel
+- 1KI 18:41-46 - Rain returns
+- 1KI 19:1-8 - Elijah flees to Horeb
+- 1KI 19:9-18 - The Lord speaks to Elijah
+- 1KI 19:19-21 - Call of Elisha
+- 1KI 20:1-21 - Ahab defeats Ben-hadad
+- 1KI 20:22-34 - Second victory over Ben-hadad
+- 1KI 20:35-43 - Prophet condemns Ahab
+- 1KI 21:1-16 - Naboth's vineyard
+- 1KI 21:17-29 - Elijah condemns Ahab
+- 1KI 22:1-28 - Micaiah prophesies against Ahab
+- 1KI 22:29-40 - Death of Ahab
+- 1KI 22:41-50 - Jehoshaphat's reign
+- 1KI 22:51-53 - Ahaziah's reign
+
+## 2 Kings (2KI)
+
+- 2KI 01:1-18 - Elijah and Ahaziah
+- 2KI 02:1-12 - Elijah taken up
+- 2KI 02:13-25 - Elisha succeeds Elijah
+- 2KI 03:1-27 - War against Moab
+- 2KI 04:1-7 - Widow's oil multiplied
+- 2KI 04:8-17 - Shunammite woman's hospitality
+- 2KI 04:18-37 - Shunammite's son raised
+- 2KI 04:38-44 - Miracles of provision
+- 2KI 05:1-14 - Naaman healed
+- 2KI 05:15-27 - Gehazi's greed
+- 2KI 06:1-7 - The floating axehead
+- 2KI 06:8-23 - Arameans struck blind
+- 2KI 06:24-33 - Siege of Samaria
+- 2KI 07:1-20 - Siege lifted
+- 2KI 08:1-6 - Shunammite's land restored
+- 2KI 08:7-15 - Hazael becomes king
+- 2KI 08:16-24 - Jehoram of Judah
+- 2KI 08:25-29 - Ahaziah of Judah
+- 2KI 09:1-13 - Jehu anointed
+- 2KI 09:14-29 - Jehu kills Joram and Ahaziah
+- 2KI 09:30-37 - Death of Jezebel
+- 2KI 10:1-17 - Jehu destroys Ahab's house
+- 2KI 10:18-36 - Jehu destroys Baal worship
+- 2KI 11:1-16 - Athaliah and Joash
+- 2KI 11:17-21 - Jehoiada's reforms
+- 2KI 12:1-16 - Joash repairs the temple
+- 2KI 12:17-21 - Death of Joash
+- 2KI 13:1-9 - Jehoahaz of Israel
+- 2KI 13:10-25 - Jehoash of Israel
+- 2KI 14:1-22 - Amaziah of Judah
+- 2KI 14:23-29 - Jeroboam II
+- 2KI 15:1-7 - Azariah of Judah
+- 2KI 15:8-31 - Instability in Israel
+- 2KI 15:32-38 - Jotham of Judah
+- 2KI 16:1-20 - Ahaz of Judah
+- 2KI 17:1-6 - Fall of Samaria
+- 2KI 17:7-23 - Reasons for exile
+- 2KI 17:24-41 - Foreigners in Samaria
+- 2KI 18:1-12 - Hezekiah's reforms
+- 2KI 18:13-37 - Sennacherib threatens Jerusalem
+- 2KI 19:1-19 - Hezekiah consults Isaiah
+- 2KI 19:20-37 - Assyria defeated
+- 2KI 20:1-11 - Hezekiah's illness
+- 2KI 20:12-21 - Envoys from Babylon
+- 2KI 21:1-18 - Manasseh's wickedness
+- 2KI 21:19-26 - Amon's reign
+- 2KI 22:1-13 - Book of the law found
+- 2KI 22:14-20 - Huldah's prophecy
+- 2KI 23:1-20 - Josiah's reforms
+- 2KI 23:21-30 - Passover and Josiah's death
+- 2KI 23:31-35 - Jehoahaz and Jehoiakim
+- 2KI 23:36-24:7 - Jehoiakim's reign
+- 2KI 24:8-17 - First deportation
+- 2KI 24:18-25:7 - Fall of Jerusalem
+- 2KI 25:8-21 - Temple destroyed
+- 2KI 25:22-26 - Gedaliah assassinated
+- 2KI 25:27-30 - Jehoiachin released
+
+## 1 Chronicles (1CH)
+
+- 1CH 01:1-27 - Adam to Abraham
+- 1CH 01:28-54 - Descendants of Abraham
+- 1CH 02:1-17 - Sons of Israel to Jesse
+- 1CH 02:18-55 - Descendants of Judah
+- 1CH 03:1-24 - Descendants of David
+- 1CH 04:1-23 - More descendants of Judah
+- 1CH 04:24-43 - Descendants of Simeon
+- 1CH 05:1-10 - Descendants of Reuben
+- 1CH 05:11-22 - Descendants of Gad
+- 1CH 05:23-26 - Half-tribe of Manasseh
+- 1CH 06:1-30 - Descendants of Levi
+- 1CH 06:31-48 - Temple musicians
+- 1CH 06:49-81 - Levitical cities
+- 1CH 07:1-5 - Descendants of Issachar
+- 1CH 07:6-12 - Descendants of Benjamin
+- 1CH 07:13 - Descendants of Naphtali
+- 1CH 07:14-19 - Descendants of Manasseh
+- 1CH 07:20-29 - Descendants of Ephraim
+- 1CH 07:30-40 - Descendants of Asher
+- 1CH 08:1-40 - Genealogy of Benjamin
+- 1CH 09:1-34 - Returnees to Jerusalem
+- 1CH 09:35-44 - Genealogy of Saul
+- 1CH 10:1-14 - Death of Saul
+- 1CH 11:1-9 - David becomes king
+- 1CH 11:10-47 - David's mighty men
+- 1CH 12:1-22 - Warriors who joined David
+- 1CH 12:23-40 - Supporters at Hebron
+- 1CH 13:1-14 - Bringing the ark
+- 1CH 14:1-17 - David's house and victories
+- 1CH 15:1-24 - Preparing to move the ark
+- 1CH 15:25-16:6 - Ark brought to Jerusalem
+- 1CH 16:7-36 - David's psalm of thanks
+- 1CH 16:37-43 - Worship arrangements
+- 1CH 17:1-15 - God's covenant with David
+- 1CH 17:16-27 - David's prayer
+- 1CH 18:1-17 - David's victories
+- 1CH 19:1-19 - War with Ammon and Aram
+- 1CH 20:1-8 - Further victories
+- 1CH 21:1-17 - David's census and plague
+- 1CH 21:18-30 - David's altar
+- 1CH 22:1-19 - Preparations for the temple
+- 1CH 23:1-32 - Organization of Levites
+- 1CH 24:1-31 - Divisions of priests
+- 1CH 25:1-31 - Musicians
+- 1CH 26:1-19 - Gatekeepers
+- 1CH 26:20-32 - Treasurers and officials
+- 1CH 27:1-24 - Army divisions
+- 1CH 27:25-34 - Royal administrators
+- 1CH 28:1-10 - David's charge to Solomon
+- 1CH 28:11-21 - Plans for the temple
+- 1CH 29:1-9 - Offerings for the temple
+- 1CH 29:10-20 - David's prayer
+- 1CH 29:21-30 - Solomon made king
+
+## 2 Chronicles (2CH)
+
+- 2CH 01:1-13 - Solomon asks for wisdom
+- 2CH 01:14-17 - Solomon's wealth
+- 2CH 02:1-18 - Preparations for the temple
+- 2CH 03:1-17 - Building the temple
+- 2CH 04:1-22 - Temple furnishings
+- 2CH 05:1-14 - Ark brought to the temple
+- 2CH 06:1-21 - Solomon's prayer begins
+- 2CH 06:22-42 - Solomon's prayer continues
+- 2CH 07:1-10 - Fire from heaven
+- 2CH 07:11-22 - God appears to Solomon
+- 2CH 08:1-18 - Solomon's other activities
+- 2CH 09:1-12 - Queen of Sheba visits
+- 2CH 09:13-31 - Solomon's splendor and death
+- 2CH 10:1-19 - Kingdom divided
+- 2CH 11:1-23 - Rehoboam fortifies Judah
+- 2CH 12:1-16 - Shishak attacks Jerusalem
+- 2CH 13:1-22 - Abijah defeats Jeroboam
+- 2CH 14:1-15 - Asa's reforms and victory
+- 2CH 15:1-19 - Asa's covenant renewal
+- 2CH 16:1-14 - Asa's failures and death
+- 2CH 17:1-19 - Jehoshaphat strengthens Judah
+- 2CH 18:1-34 - Jehoshaphat and Ahab
+- 2CH 19:1-11 - Jehoshaphat's reforms
+- 2CH 20:1-19 - Judah faces invasion
+- 2CH 20:20-37 - Victory through praise
+- 2CH 21:1-20 - Jehoram's wicked reign
+- 2CH 22:1-9 - Ahaziah's wicked reign
+- 2CH 22:10-23:15 - Athaliah and Joash
+- 2CH 23:16-21 - Jehoiada's reforms
+- 2CH 24:1-16 - Joash repairs the temple
+- 2CH 24:17-27 - Joash's apostasy and death
+- 2CH 25:1-16 - Amaziah's reign
+- 2CH 25:17-28 - Amaziah's defeat and death
+- 2CH 26:1-15 - Uzziah's prosperity
+- 2CH 26:16-23 - Uzziah's pride and leprosy
+- 2CH 27:1-9 - Jotham's reign
+- 2CH 28:1-15 - Ahaz's wickedness
+- 2CH 28:16-27 - Ahaz's further sins
+- 2CH 29:1-19 - Hezekiah cleanses the temple
+- 2CH 29:20-36 - Temple worship restored
+- 2CH 30:1-27 - Passover celebrated
+- 2CH 31:1-21 - Hezekiah's reforms
+- 2CH 32:1-23 - Sennacherib's invasion
+- 2CH 32:24-33 - Hezekiah's illness and death
+- 2CH 33:1-20 - Manasseh's reign
+- 2CH 33:21-25 - Amon's reign
+- 2CH 34:1-13 - Josiah's reforms
+- 2CH 34:14-33 - Book of the law found
+- 2CH 35:1-19 - Passover celebrated
+- 2CH 35:20-27 - Josiah's death
+- 2CH 36:1-4 - Jehoahaz
+- 2CH 36:5-8 - Jehoiakim
+- 2CH 36:9-10 - Jehoiachin
+- 2CH 36:11-21 - Fall of Jerusalem
+- 2CH 36:22-23 - Cyrus's decree
+
+## Ezra (EZR)
+
+- EZR 01:1-11 - Cyrus's proclamation
+- EZR 02:1-67 - List of returnees
+- EZR 02:68-70 - Offerings for the temple
+- EZR 03:1-7 - Altar rebuilt
+- EZR 03:8-13 - Temple foundation laid
+- EZR 04:1-5 - Opposition begins
+- EZR 04:6-24 - Further opposition
+- EZR 05:1-17 - Temple work resumes
+- EZR 06:1-12 - Decree of Darius
+- EZR 06:13-22 - Temple completed
+- EZR 07:1-10 - Ezra introduced
+- EZR 07:11-28 - Letter of Artaxerxes
+- EZR 08:1-14 - Those returning with Ezra
+- EZR 08:15-30 - Preparing for the journey
+- EZR 08:31-36 - Arrival in Jerusalem
+- EZR 09:1-15 - Ezra's prayer of confession
+- EZR 10:1-17 - Response to intermarriage
+- EZR 10:18-44 - List of offenders
+
+## Nehemiah (NEH)
+
+- NEH 01:1-11 - Nehemiah's prayer
+- NEH 02:1-10 - Nehemiah sent to Jerusalem
+- NEH 02:11-20 - Inspecting the walls
+- NEH 03:1-32 - Builders of the wall
+- NEH 04:1-14 - Opposition to rebuilding
+- NEH 04:15-23 - Armed builders
+- NEH 05:1-13 - Nehemiah addresses injustice
+- NEH 05:14-19 - Nehemiah's generosity
+- NEH 06:1-14 - Plots against Nehemiah
+- NEH 06:15-19 - Wall completed
+- NEH 07:1-4 - Guarding Jerusalem
+- NEH 07:5-73 - List of returnees
+- NEH 08:1-12 - Ezra reads the law
+- NEH 08:13-18 - Feast of Booths
+- NEH 09:1-5 - Day of confession
+- NEH 09:6-37 - Prayer of confession
+- NEH 09:38-10:39 - Covenant renewed
+- NEH 11:1-24 - New residents of Jerusalem
+- NEH 11:25-36 - Villages outside Jerusalem
+- NEH 12:1-26 - Priests and Levites
+- NEH 12:27-43 - Dedication of the wall
+- NEH 12:44-47 - Support for temple service
+- NEH 13:1-14 - Nehemiah's reforms
+- NEH 13:15-22 - Sabbath observance
+- NEH 13:23-31 - Mixed marriages addressed
+
+## Esther (EST)
+
+- EST 01:1-9 - King Ahasuerus's feast
+- EST 01:10-22 - Queen Vashti deposed
+- EST 02:1-11 - Esther brought to the palace
+- EST 02:12-18 - Esther becomes queen
+- EST 02:19-23 - Mordecai uncovers a plot
+- EST 03:1-15 - Haman's plot against the Jews
+- EST 04:1-17 - Mordecai appeals to Esther
+- EST 05:1-8 - Esther's first banquet
+- EST 05:9-14 - Haman's pride and gallows
+- EST 06:1-14 - Mordecai honored
+- EST 07:1-10 - Haman executed
+- EST 08:1-17 - Jews allowed to defend themselves
+- EST 09:1-19 - Jews victorious
+- EST 09:20-32 - Feast of Purim established
+- EST 10:1-3 - Greatness of Mordecai
+
+## Job (JOB)
+
+- JOB 01:1-5 - Job's prosperity and piety
+- JOB 01:6-12 - Satan's first accusation
+- JOB 01:13-22 - Job's first test
+- JOB 02:1-10 - Job's second test
+- JOB 02:11-13 - Job's three friends
+- JOB 03:1-26 - Job's lament
+- JOB 04:1-21 - Eliphaz's first speech
+- JOB 05:1-27 - Eliphaz continues
+- JOB 06:1-30 - Job's reply to Eliphaz
+- JOB 07:1-21 - Job's complaint to God
+- JOB 08:1-22 - Bildad's first speech
+- JOB 09:1-35 - Job's reply to Bildad
+- JOB 10:1-22 - Job's plea to God
+- JOB 11:1-20 - Zophar's first speech
+- JOB 12:1-25 - Job's reply begins
+- JOB 13:1-28 - Job challenges his friends
+- JOB 14:1-22 - The frailty of man
+- JOB 15:1-35 - Eliphaz's second speech
+- JOB 16:1-22 - Job's reply to Eliphaz
+- JOB 17:1-16 - Job's despair
+- JOB 18:1-21 - Bildad's second speech
+- JOB 19:1-29 - Job's reply: My Redeemer lives
+- JOB 20:1-29 - Zophar's second speech
+- JOB 21:1-34 - Job's reply on the wicked
+- JOB 22:1-30 - Eliphaz's third speech
+- JOB 23:1-17 - Job's longing to find God
+- JOB 24:1-25 - Why does God delay justice
+- JOB 25:1-6 - Bildad's third speech
+- JOB 26:1-14 - Job's reply on God's power
+- JOB 27:1-23 - Job maintains his integrity
+- JOB 28:1-28 - Where is wisdom found
+- JOB 29:1-25 - Job's former blessings
+- JOB 30:1-31 - Job's present suffering
+- JOB 31:1-40 - Job's oath of innocence
+- JOB 32:1-22 - Elihu's anger
+- JOB 33:1-33 - Elihu's first speech
+- JOB 34:1-37 - Elihu's second speech
+- JOB 35:1-16 - Elihu's third speech
+- JOB 36:1-21 - Elihu's fourth speech begins
+- JOB 36:22-37:24 - God's majesty in creation
+- JOB 38:1-21 - God speaks: creation
+- JOB 38:22-41 - God speaks: weather and stars
+- JOB 39:1-30 - God speaks: animals
+- JOB 40:1-5 - Job's brief response
+- JOB 40:6-24 - God speaks: Behemoth
+- JOB 41:1-34 - God speaks: Leviathan
+- JOB 42:1-6 - Job's repentance
+- JOB 42:7-17 - Job restored
+
+## Psalms (PSA)
+
+- PSA 001:1-6 - Two ways of life
+- PSA 002:1-12 - The Lord's anointed
+- PSA 003:1-8 - Morning prayer for deliverance
+- PSA 004:1-8 - Evening prayer of trust
+- PSA 005:1-12 - Morning prayer for guidance
+- PSA 006:1-10 - Prayer in distress
+- PSA 007:1-17 - Prayer for vindication
+- PSA 008:1-9 - The majesty of God in creation
+- PSA 009:1-20 - Thanksgiving for victory
+- PSA 010:1-18 - Prayer for the oppressed
+- PSA 011:1-7 - Trust in the Lord
+- PSA 012:1-8 - The faithful have vanished
+- PSA 013:1-6 - How long, O Lord
+- PSA 014:1-7 - The fool says no God
+- PSA 015:1-5 - Who may dwell with God
+- PSA 016:1-11 - The path of life
+- PSA 017:1-15 - Prayer for protection
+- PSA 018:1-19 - David's song of deliverance
+- PSA 018:20-50 - God's faithfulness to David
+- PSA 019:1-6 - The heavens declare God's glory
+- PSA 019:7-14 - The law of the Lord
+- PSA 020:1-9 - Prayer for the king
+- PSA 021:1-13 - The king rejoices
+- PSA 022:1-21 - My God, why have you forsaken me
+- PSA 022:22-31 - Praise among the congregation
+- PSA 023:1-6 - The Lord is my shepherd
+- PSA 024:1-10 - The King of glory
+- PSA 025:1-22 - Prayer for guidance and forgiveness
+- PSA 026:1-12 - Plea for vindication
+- PSA 027:1-6 - The Lord is my light
+- PSA 027:7-14 - Wait for the Lord
+- PSA 028:1-9 - Prayer for help
+- PSA 029:1-11 - The voice of the Lord
+- PSA 030:1-12 - Thanksgiving for healing
+- PSA 031:1-8 - Into your hands
+- PSA 031:9-24 - Trust in times of distress
+- PSA 032:1-11 - Blessed is the forgiven
+- PSA 033:1-22 - Praise to the Creator
+- PSA 034:1-10 - I will bless the Lord
+- PSA 034:11-22 - Fear of the Lord
+- PSA 035:1-18 - Plea for rescue
+- PSA 035:19-28 - Do not let them triumph
+- PSA 036:1-12 - Wickedness and steadfast love
+- PSA 037:1-11 - Do not fret over evildoers
+- PSA 037:12-26 - The righteous will inherit
+- PSA 037:27-40 - Wait for the Lord
+- PSA 038:1-22 - Prayer of a suffering sinner
+- PSA 039:1-13 - Life is fleeting
+- PSA 040:1-10 - He put a new song in my mouth
+- PSA 040:11-17 - Be pleased to deliver me
+- PSA 041:1-13 - Blessed is one who cares for poor
+- PSA 042:1-11 - As a deer pants for water
+- PSA 043:1-5 - Send out your light
+- PSA 044:1-8 - Past deliverance remembered
+- PSA 044:9-26 - Present suffering
+- PSA 045:1-17 - A royal wedding song
+- PSA 046:1-11 - God is our refuge
+- PSA 047:1-9 - God is king over all
+- PSA 048:1-14 - The city of God
+- PSA 049:1-20 - The folly of trusting riches
+- PSA 050:1-15 - God summons the earth
+- PSA 050:16-23 - Warning to the wicked
+- PSA 051:1-9 - Create in me a clean heart
+- PSA 051:10-19 - Restore the joy of salvation
+- PSA 052:1-9 - Judgment on the deceitful
+- PSA 053:1-6 - The fool says no God
+- PSA 054:1-7 - Prayer for deliverance
+- PSA 055:1-15 - Cast your burden on the Lord
+- PSA 055:16-23 - God will sustain you
+- PSA 056:1-13 - In God I trust
+- PSA 057:1-11 - Be exalted, O God
+- PSA 058:1-11 - Judgment on unjust rulers
+- PSA 059:1-17 - Deliver me from enemies
+- PSA 060:1-12 - Restore us, O God
+- PSA 061:1-8 - Lead me to the rock
+- PSA 062:1-12 - My soul waits for God alone
+- PSA 063:1-11 - My soul thirsts for you
+- PSA 064:1-10 - Protection from enemies
+- PSA 065:1-13 - Praise for God's provision
+- PSA 066:1-12 - Shout for joy to God
+- PSA 066:13-20 - I will come with offerings
+- PSA 067:1-7 - May God bless us
+- PSA 068:1-18 - God's triumphant march
+- PSA 068:19-35 - Blessed be the Lord
+- PSA 069:1-18 - Save me, O God
+- PSA 069:19-36 - Zeal for your house
+- PSA 070:1-5 - Hurry to help me
+- PSA 071:1-13 - Be my rock of refuge
+- PSA 071:14-24 - Praise in old age
+- PSA 072:1-20 - Prayer for the king
+- PSA 073:1-14 - Prosperity of the wicked
+- PSA 073:15-28 - God is my portion
+- PSA 074:1-11 - Why have you rejected us
+- PSA 074:12-23 - Remember your covenant
+- PSA 075:1-10 - God judges with equity
+- PSA 076:1-12 - God's glorious might
+- PSA 077:1-12 - In distress I seek the Lord
+- PSA 077:13-20 - Your way was through the sea
+- PSA 078:1-16 - God's works for Israel
+- PSA 078:17-39 - Israel's rebellion
+- PSA 078:40-55 - Deliverance from Egypt
+- PSA 078:56-72 - David chosen as shepherd
+- PSA 079:1-13 - Lament over Jerusalem
+- PSA 080:1-7 - Restore us, O God
+- PSA 080:8-19 - The vine from Egypt
+- PSA 081:1-16 - Hear, O my people
+- PSA 082:1-8 - God judges the judges
+- PSA 083:1-18 - Prayer against enemies
+- PSA 084:1-12 - Longing for God's house
+- PSA 085:1-13 - Restore us again
+- PSA 086:1-17 - Teach me your way
+- PSA 087:1-7 - Glories of Zion
+- PSA 088:1-18 - A cry of desperation
+- PSA 089:1-18 - God's covenant with David
+- PSA 089:19-37 - David my servant
+- PSA 089:38-52 - How long, O Lord
+- PSA 090:1-12 - Lord, you have been our dwelling
+- PSA 090:13-17 - Establish the work of our hands
+- PSA 091:1-16 - He who dwells in the shelter
+- PSA 092:1-15 - It is good to give thanks
+- PSA 093:1-5 - The Lord reigns
+- PSA 094:1-11 - God of vengeance
+- PSA 094:12-23 - Blessed is the one you discipline
+- PSA 095:1-11 - Do not harden your hearts
+- PSA 096:1-13 - Sing a new song
+- PSA 097:1-12 - The Lord reigns
+- PSA 098:1-9 - Sing a new song
+- PSA 099:1-9 - The Lord reigns in holiness
+- PSA 100:1-5 - Make a joyful noise
+- PSA 101:1-8 - I will walk with integrity
+- PSA 102:1-11 - Hear my prayer, O Lord
+- PSA 102:12-28 - But you, O Lord, endure
+- PSA 103:1-12 - Bless the Lord, O my soul
+- PSA 103:13-22 - As a father has compassion
+- PSA 104:1-23 - God's glory in creation
+- PSA 104:24-35 - The earth is full of your creatures
+- PSA 105:1-22 - Give thanks, remember his works
+- PSA 105:23-45 - Israel in Egypt and exodus
+- PSA 106:1-23 - Confession of Israel's sins
+- PSA 106:24-48 - Rebellion in the wilderness
+- PSA 107:1-22 - Give thanks for deliverance
+- PSA 107:23-43 - More deliverances
+- PSA 108:1-13 - My heart is steadfast
+- PSA 109:1-20 - Do not be silent
+- PSA 109:21-31 - Help me, O Lord
+- PSA 110:1-7 - The Lord says to my Lord
+- PSA 111:1-10 - Great are the Lord's works
+- PSA 112:1-10 - Blessed is the one who fears
+- PSA 113:1-9 - From rising to setting sun
+- PSA 114:1-8 - When Israel went out
+- PSA 115:1-18 - Not to us but to your name
+- PSA 116:1-19 - I love the Lord
+- PSA 117:1-2 - Praise the Lord, all nations
+- PSA 118:1-18 - His steadfast love endures
+- PSA 118:19-29 - The stone the builders rejected
+- PSA 119:1-8 - Aleph: Blessed are the blameless
+- PSA 119:9-16 - Beth: How can a young man stay pure
+- PSA 119:17-24 - Gimel: Deal bountifully
+- PSA 119:25-32 - Daleth: My soul clings to dust
+- PSA 119:33-40 - He: Teach me your statutes
+- PSA 119:41-48 - Waw: Let your steadfast love come
+- PSA 119:49-56 - Zayin: Remember your word
+- PSA 119:57-64 - Heth: The Lord is my portion
+- PSA 119:65-72 - Teth: You have dealt well
+- PSA 119:73-80 - Yodh: Your hands made me
+- PSA 119:81-88 - Kaph: My soul longs for salvation
+- PSA 119:89-96 - Lamedh: Forever, O Lord
+- PSA 119:97-104 - Mem: Oh how I love your law
+- PSA 119:105-112 - Nun: Your word is a lamp
+- PSA 119:113-120 - Samekh: I hate the double-minded
+- PSA 119:121-128 - Ayin: I have done justice
+- PSA 119:129-136 - Pe: Your testimonies are wonderful
+- PSA 119:137-144 - Tsadhe: Righteous are you
+- PSA 119:145-152 - Qoph: I call with my whole heart
+- PSA 119:153-160 - Resh: Look on my affliction
+- PSA 119:161-168 - Shin: Princes persecute me
+- PSA 119:169-176 - Taw: Let my cry come before you
+- PSA 120:1-7 - In distress I cried
+- PSA 121:1-8 - I lift my eyes to the hills
+- PSA 122:1-9 - I was glad when they said
+- PSA 123:1-4 - To you I lift my eyes
+- PSA 124:1-8 - If the Lord had not been for us
+- PSA 125:1-5 - Those who trust in the Lord
+- PSA 126:1-6 - Restore our fortunes
+- PSA 127:1-5 - Unless the Lord builds the house
+- PSA 128:1-6 - Blessed is everyone who fears
+- PSA 129:1-8 - Greatly have they afflicted me
+- PSA 130:1-8 - Out of the depths I cry
+- PSA 131:1-3 - My heart is not lifted up
+- PSA 132:1-10 - Remember David
+- PSA 132:11-18 - The Lord has chosen Zion
+- PSA 133:1-3 - How good when brothers dwell
+- PSA 134:1-3 - Bless the Lord, servants
+- PSA 135:1-12 - Praise the name of the Lord
+- PSA 135:13-21 - Their idols are silver and gold
+- PSA 136:1-26 - His steadfast love endures forever
+- PSA 137:1-9 - By the waters of Babylon
+- PSA 138:1-8 - I give you thanks
+- PSA 139:1-12 - O Lord, you have searched me
+- PSA 139:13-24 - I am fearfully and wonderfully made
+- PSA 140:1-13 - Deliver me from evil men
+- PSA 141:1-10 - Set a guard over my mouth
+- PSA 142:1-7 - With my voice I cry
+- PSA 143:1-12 - Hear my prayer, O Lord
+- PSA 144:1-15 - Blessed be the Lord my rock
+- PSA 145:1-13 - I will extol you, my King
+- PSA 145:14-21 - The Lord upholds all who fall
+- PSA 146:1-10 - Praise the Lord, O my soul
+- PSA 147:1-11 - He heals the brokenhearted
+- PSA 147:12-20 - Praise the Lord, O Jerusalem
+- PSA 148:1-14 - Praise from the heavens
+- PSA 149:1-9 - Sing to the Lord a new song
+- PSA 150:1-6 - Let everything praise the Lord
+
+## Proverbs (PRO)
+
+- PRO 01:1-7 - Purpose of Proverbs
+- PRO 01:8-19 - Warning against sinners
+- PRO 01:20-33 - Wisdom's call
+- PRO 02:1-22 - Benefits of wisdom
+- PRO 03:1-12 - Trust in the Lord
+- PRO 03:13-26 - Blessed is the one who finds wisdom
+- PRO 03:27-35 - Do not withhold good
+- PRO 04:1-9 - Get wisdom
+- PRO 04:10-19 - Two paths
+- PRO 04:20-27 - Guard your heart
+- PRO 05:1-14 - Warning against adultery
+- PRO 05:15-23 - Rejoice in the wife of your youth
+- PRO 06:1-5 - Warning against surety
+- PRO 06:6-11 - The sluggard and the ant
+- PRO 06:12-19 - Seven things God hates
+- PRO 06:20-35 - Warning against adultery
+- PRO 07:1-27 - The seductress
+- PRO 08:1-21 - Wisdom's call
+- PRO 08:22-36 - Wisdom in creation
+- PRO 09:1-6 - Wisdom's invitation
+- PRO 09:7-12 - Wisdom and folly contrasted
+- PRO 09:13-18 - Folly's invitation
+- PRO 10:1-16 - Proverbs of Solomon: contrasts
+- PRO 10:17-32 - More contrasts
+- PRO 11:1-15 - Integrity and righteousness
+- PRO 11:16-31 - Generosity and kindness
+- PRO 12:1-14 - Wisdom in word and work
+- PRO 12:15-28 - The way of the wise
+- PRO 13:1-13 - Wisdom and discipline
+- PRO 13:14-25 - The fruit of righteousness
+- PRO 14:1-18 - Wisdom builds the house
+- PRO 14:19-35 - Fear of the Lord
+- PRO 15:1-17 - A gentle answer
+- PRO 15:18-33 - The Lord sees all
+- PRO 16:1-16 - The Lord directs steps
+- PRO 16:17-33 - Pride and humility
+- PRO 17:1-14 - Strife and peace
+- PRO 17:15-28 - A friend loves at all times
+- PRO 18:1-12 - The fool's mouth
+- PRO 18:13-24 - A true friend
+- PRO 19:1-15 - Better the poor than a liar
+- PRO 19:16-29 - Discipline your children
+- PRO 20:1-15 - Wine is a mocker
+- PRO 20:16-30 - The Lord tests hearts
+- PRO 21:1-16 - The king's heart
+- PRO 21:17-31 - Better to live on a corner
+- PRO 22:1-16 - A good name
+- PRO 22:17-29 - Sayings of the wise
+- PRO 23:1-18 - Do not envy sinners
+- PRO 23:19-35 - Warning against drunkenness
+- PRO 24:1-14 - Wisdom is sweet
+- PRO 24:15-22 - Do not rejoice when enemies fall
+- PRO 24:23-34 - More sayings of the wise
+- PRO 25:1-14 - Proverbs copied by Hezekiah's men
+- PRO 25:15-28 - Self-control
+- PRO 26:1-12 - Concerning fools
+- PRO 26:13-28 - The sluggard and the deceiver
+- PRO 27:1-14 - Do not boast about tomorrow
+- PRO 27:15-27 - Know your flocks
+- PRO 28:1-14 - The righteous are bold
+- PRO 28:15-28 - Justice and integrity
+- PRO 29:1-14 - Discipline brings wisdom
+- PRO 29:15-27 - Where there is no vision
+- PRO 30:1-9 - Words of Agur
+- PRO 30:10-17 - Numerical sayings
+- PRO 30:18-33 - More numerical sayings
+- PRO 31:1-9 - Words of King Lemuel
+- PRO 31:10-31 - The excellent wife
+
+## Ecclesiastes (ECC)
+
+- ECC 01:1-11 - Vanity of vanities
+- ECC 01:12-18 - The futility of wisdom
+- ECC 02:1-11 - The futility of pleasure
+- ECC 02:12-26 - Wisdom and folly
+- ECC 03:1-15 - A time for everything
+- ECC 03:16-22 - Injustice and death
+- ECC 04:1-8 - Oppression and toil
+- ECC 04:9-16 - The value of companionship
+- ECC 05:1-7 - Fear God
+- ECC 05:8-20 - The vanity of wealth
+- ECC 06:1-12 - The vanity of possessions
+- ECC 07:1-14 - Wisdom for living
+- ECC 07:15-29 - The limits of wisdom
+- ECC 08:1-17 - The mystery of providence
+- ECC 09:1-12 - Death comes to all
+- ECC 09:13-10:4 - Wisdom is better than folly
+- ECC 10:5-20 - Wisdom and foolishness
+- ECC 11:1-6 - Cast your bread on the waters
+- ECC 11:7-12:8 - Remember your Creator
+- ECC 12:9-14 - Fear God and keep his commandments
+
+## Song of Solomon (SNG)
+
+- SNG 01:1-8 - The bride's longing
+- SNG 01:9-17 - Mutual admiration
+- SNG 02:1-7 - The beloved's beauty
+- SNG 02:8-17 - The beloved's invitation
+- SNG 03:1-5 - Seeking the beloved
+- SNG 03:6-11 - Solomon's wedding procession
+- SNG 04:1-7 - The bride's beauty praised
+- SNG 04:8-15 - A garden enclosed
+- SNG 04:16-5:1 - The garden enjoyed
+- SNG 05:2-8 - A troubled dream
+- SNG 05:9-16 - Description of the beloved
+- SNG 06:1-3 - Where has your beloved gone
+- SNG 06:4-12 - The bride's unique beauty
+- SNG 06:13-7:9 - The Shulammite's beauty
+- SNG 07:10-8:4 - Longing for the beloved
+- SNG 08:5-14 - The power of love
+
+## Isaiah (ISA)
+
+- ISA 01:1-9 - A sinful nation
+- ISA 01:10-20 - Meaningless offerings
+- ISA 01:21-31 - Jerusalem's redemption
+- ISA 02:1-5 - The mountain of the Lord
+- ISA 02:6-22 - The day of the Lord
+- ISA 03:1-15 - Judgment on Judah
+- ISA 03:16-4:1 - Judgment on the women
+- ISA 04:2-6 - The Branch of the Lord
+- ISA 05:1-7 - Song of the vineyard
+- ISA 05:8-17 - Woes pronounced
+- ISA 05:18-30 - More woes
+- ISA 06:1-13 - Isaiah's vision and call
+- ISA 07:1-9 - Sign of Immanuel
+- ISA 07:10-25 - The virgin will conceive
+- ISA 08:1-10 - Maher-shalal-hash-baz
+- ISA 08:11-22 - Fear God, not man
+- ISA 09:1-7 - A child is born
+- ISA 09:8-21 - Judgment on Israel
+- ISA 10:1-19 - Woe to Assyria
+- ISA 10:20-34 - A remnant will return
+- ISA 11:1-9 - The Branch from Jesse
+- ISA 11:10-16 - The remnant gathered
+- ISA 12:1-6 - Songs of praise
+- ISA 13:1-22 - Oracle against Babylon
+- ISA 14:1-23 - Fall of the king of Babylon
+- ISA 14:24-32 - Oracles against Assyria and Philistia
+- ISA 15:1-16:14 - Oracle against Moab
+- ISA 17:1-14 - Oracle against Damascus
+- ISA 18:1-7 - Oracle against Cush
+- ISA 19:1-15 - Oracle against Egypt
+- ISA 19:16-25 - Egypt and Assyria blessed
+- ISA 20:1-6 - Sign against Egypt and Cush
+- ISA 21:1-10 - Oracle against Babylon
+- ISA 21:11-17 - Oracles against Edom and Arabia
+- ISA 22:1-14 - Oracle concerning Jerusalem
+- ISA 22:15-25 - Shebna and Eliakim
+- ISA 23:1-18 - Oracle against Tyre
+- ISA 24:1-23 - The Lord's devastation
+- ISA 25:1-12 - Praise for God's salvation
+- ISA 26:1-19 - A song of trust
+- ISA 26:20-27:13 - Israel's restoration
+- ISA 28:1-13 - Woe to Ephraim
+- ISA 28:14-29 - The cornerstone in Zion
+- ISA 29:1-14 - Woe to Jerusalem
+- ISA 29:15-24 - Woe to those who hide plans
+- ISA 30:1-18 - Woe to rebellious children
+- ISA 30:19-33 - God's grace and judgment
+- ISA 31:1-9 - Woe to those who trust Egypt
+- ISA 32:1-20 - The kingdom of righteousness
+- ISA 33:1-24 - Distress and deliverance
+- ISA 34:1-17 - Judgment on the nations
+- ISA 35:1-10 - The ransomed will return
+- ISA 36:1-22 - Sennacherib threatens Jerusalem
+- ISA 37:1-20 - Hezekiah seeks Isaiah
+- ISA 37:21-38 - Assyria's defeat
+- ISA 38:1-22 - Hezekiah's illness and recovery
+- ISA 39:1-8 - Envoys from Babylon
+- ISA 40:1-11 - Comfort my people
+- ISA 40:12-31 - The incomparable God
+- ISA 41:1-20 - God helps Israel
+- ISA 41:21-29 - Idols are nothing
+- ISA 42:1-9 - The servant of the Lord
+- ISA 42:10-17 - Sing a new song
+- ISA 42:18-25 - Israel's blindness
+- ISA 43:1-13 - Fear not, I have redeemed you
+- ISA 43:14-28 - God's mercy despite sin
+- ISA 44:1-8 - Israel the chosen
+- ISA 44:9-20 - The folly of idolatry
+- ISA 44:21-28 - The Lord the Creator
+- ISA 45:1-13 - Cyrus, God's instrument
+- ISA 45:14-25 - God alone saves
+- ISA 46:1-13 - Babylon's idols
+- ISA 47:1-15 - Fall of Babylon
+- ISA 48:1-22 - Stubborn Israel
+- ISA 49:1-13 - The servant's mission
+- ISA 49:14-26 - Zion comforted
+- ISA 50:1-11 - The servant's obedience
+- ISA 51:1-16 - Comfort for Zion
+- ISA 51:17-52:12 - Awake, O Jerusalem
+- ISA 52:13-53:12 - The suffering servant
+- ISA 54:1-17 - Future glory of Zion
+- ISA 55:1-13 - Invitation to the thirsty
+- ISA 56:1-8 - Salvation for all
+- ISA 56:9-57:13 - Condemnation of idolatry
+- ISA 57:14-21 - Comfort for the contrite
+- ISA 58:1-14 - True fasting
+- ISA 59:1-15 - Sin separates from God
+- ISA 59:16-21 - The Redeemer will come
+- ISA 60:1-22 - The glory of Zion
+- ISA 61:1-11 - Good news of salvation
+- ISA 62:1-12 - Zion's new name
+- ISA 63:1-6 - The day of vengeance
+- ISA 63:7-19 - God's mercy remembered
+- ISA 64:1-12 - Prayer for mercy
+- ISA 65:1-16 - Judgment and salvation
+- ISA 65:17-25 - New heavens and new earth
+- ISA 66:1-14 - True and false worship
+- ISA 66:15-24 - Final judgment
+
+## Jeremiah (JER)
+
+- JER 01:1-10 - Call of Jeremiah
+- JER 01:11-19 - Two visions
+- JER 02:1-19 - Israel forsakes God
+- JER 02:20-37 - Israel's unfaithfulness
+- JER 03:1-10 - Call to return
+- JER 03:11-25 - Israel's repentance
+- JER 04:1-18 - Disaster from the north
+- JER 04:19-31 - Anguish over destruction
+- JER 05:1-19 - Jerusalem's sin
+- JER 05:20-31 - Wickedness of the people
+- JER 06:1-15 - Jerusalem under siege
+- JER 06:16-30 - Rejection of God's ways
+- JER 07:1-15 - Temple sermon
+- JER 07:16-29 - Judgment certain
+- JER 07:30-8:3 - Valley of slaughter
+- JER 08:4-22 - Sin and judgment
+- JER 09:1-16 - Jeremiah's grief
+- JER 09:17-26 - Mourning for Jerusalem
+- JER 10:1-16 - Idols versus the Lord
+- JER 10:17-25 - Coming exile
+- JER 11:1-17 - The broken covenant
+- JER 11:18-23 - Plot against Jeremiah
+- JER 12:1-6 - Jeremiah's complaint
+- JER 12:7-17 - God's lament
+- JER 13:1-14 - Sign of the linen belt
+- JER 13:15-27 - Warning against pride
+- JER 14:1-12 - Drought and judgment
+- JER 14:13-22 - False prophets condemned
+- JER 15:1-9 - Judgment unavoidable
+- JER 15:10-21 - Jeremiah's complaint and God's answer
+- JER 16:1-13 - Signs of coming judgment
+- JER 16:14-21 - Promise of restoration
+- JER 17:1-13 - Judah's sin and hope
+- JER 17:14-27 - Sabbath observance
+- JER 18:1-12 - The potter and clay
+- JER 18:13-23 - Plot against Jeremiah
+- JER 19:1-15 - The broken jar
+- JER 20:1-6 - Jeremiah and Pashhur
+- JER 20:7-18 - Jeremiah's lament
+- JER 21:1-14 - Message to Zedekiah
+- JER 22:1-12 - Judgment on kings
+- JER 22:13-30 - Judgment on Jehoiakim and Jehoiachin
+- JER 23:1-8 - The righteous Branch
+- JER 23:9-22 - False prophets condemned
+- JER 23:23-40 - The burden of the Lord
+- JER 24:1-10 - Two baskets of figs
+- JER 25:1-14 - Seventy years of captivity
+- JER 25:15-38 - Cup of God's wrath
+- JER 26:1-24 - Jeremiah threatened
+- JER 27:1-22 - Submit to Babylon
+- JER 28:1-17 - Hananiah the false prophet
+- JER 29:1-23 - Letter to the exiles
+- JER 29:24-32 - Message to Shemaiah
+- JER 30:1-11 - Restoration promised
+- JER 30:12-24 - Healing for Zion
+- JER 31:1-14 - Joy of restoration
+- JER 31:15-22 - Rachel weeping
+- JER 31:23-30 - Return to the land
+- JER 31:31-40 - The new covenant
+- JER 32:1-15 - Jeremiah buys a field
+- JER 32:16-35 - Jeremiah's prayer
+- JER 32:36-44 - God's promise of restoration
+- JER 33:1-13 - Promised restoration
+- JER 33:14-26 - Davidic covenant confirmed
+- JER 34:1-7 - Warning to Zedekiah
+- JER 34:8-22 - Broken covenant with slaves
+- JER 35:1-19 - Example of the Rechabites
+- JER 36:1-26 - The scroll burned
+- JER 36:27-32 - The scroll rewritten
+- JER 37:1-10 - Jeremiah's warning
+- JER 37:11-21 - Jeremiah imprisoned
+- JER 38:1-13 - Jeremiah in the cistern
+- JER 38:14-28 - Zedekiah's final warning
+- JER 39:1-10 - Fall of Jerusalem
+- JER 39:11-18 - Jeremiah released
+- JER 40:1-6 - Jeremiah stays in Judah
+- JER 40:7-16 - Gedaliah appointed governor
+- JER 41:1-18 - Gedaliah assassinated
+- JER 42:1-22 - Warning against going to Egypt
+- JER 43:1-13 - Flight to Egypt
+- JER 44:1-14 - Judgment on those in Egypt
+- JER 44:15-30 - Refusal to repent
+- JER 45:1-5 - Message to Baruch
+- JER 46:1-12 - Against Egypt
+- JER 46:13-28 - Egypt's defeat
+- JER 47:1-7 - Against the Philistines
+- JER 48:1-28 - Against Moab
+- JER 48:29-47 - Moab's pride
+- JER 49:1-6 - Against Ammon
+- JER 49:7-22 - Against Edom
+- JER 49:23-27 - Against Damascus
+- JER 49:28-33 - Against Kedar and Hazor
+- JER 49:34-39 - Against Elam
+- JER 50:1-20 - Against Babylon: Israel restored
+- JER 50:21-46 - Babylon's destruction
+- JER 51:1-26 - Judgment on Babylon
+- JER 51:27-58 - Babylon will fall
+- JER 51:59-64 - Seraiah's mission
+- JER 52:1-16 - Fall of Jerusalem
+- JER 52:17-27 - Temple plundered
+- JER 52:28-34 - Deportations and Jehoiachin released
+
+## Lamentations (LAM)
+
+- LAM 01:1-11 - How lonely sits the city
+- LAM 01:12-22 - Jerusalem's plea
+- LAM 02:1-10 - God's anger
+- LAM 02:11-22 - The prophet's grief
+- LAM 03:1-24 - Affliction and hope
+- LAM 03:25-42 - The Lord is good
+- LAM 03:43-66 - Prayer for vindication
+- LAM 04:1-12 - The gold has grown dim
+- LAM 04:13-22 - The punishment of Zion
+- LAM 05:1-22 - Plea for restoration
+
+## Ezekiel (EZK)
+
+- EZK 01:1-14 - Vision of the living creatures
+- EZK 01:15-28 - The glory of the Lord
+- EZK 02:1-10 - Ezekiel's call
+- EZK 03:1-15 - Ezekiel eats the scroll
+- EZK 03:16-27 - Ezekiel as watchman
+- EZK 04:1-17 - Signs of Jerusalem's siege
+- EZK 05:1-17 - Judgment on Jerusalem
+- EZK 06:1-14 - Prophecy against the mountains
+- EZK 07:1-27 - The end has come
+- EZK 08:1-18 - Abominations in the temple
+- EZK 09:1-11 - Slaughter of idolaters
+- EZK 10:1-22 - Glory departs the temple
+- EZK 11:1-13 - Judgment on leaders
+- EZK 11:14-25 - Promise of restoration
+- EZK 12:1-16 - Sign of exile
+- EZK 12:17-28 - The certainty of judgment
+- EZK 13:1-16 - Against false prophets
+- EZK 13:17-23 - Against false prophetesses
+- EZK 14:1-11 - Idolatrous elders
+- EZK 14:12-23 - Jerusalem's sure judgment
+- EZK 15:1-8 - Jerusalem the useless vine
+- EZK 16:1-22 - Jerusalem's unfaithfulness
+- EZK 16:23-43 - Jerusalem worse than a prostitute
+- EZK 16:44-63 - Jerusalem's sisters and restoration
+- EZK 17:1-24 - Parable of two eagles
+- EZK 18:1-18 - Individual responsibility
+- EZK 18:19-32 - The soul who sins will die
+- EZK 19:1-14 - Lament for Israel's princes
+- EZK 20:1-26 - Israel's history of rebellion
+- EZK 20:27-44 - Judgment and restoration
+- EZK 20:45-21:17 - The sword of the Lord
+- EZK 21:18-32 - Babylon's sword
+- EZK 22:1-16 - Sins of Jerusalem
+- EZK 22:17-31 - Israel like dross
+- EZK 23:1-27 - Oholah and Oholibah
+- EZK 23:28-49 - Judgment on the sisters
+- EZK 24:1-14 - The boiling pot
+- EZK 24:15-27 - Sign of Ezekiel's wife
+- EZK 25:1-17 - Against Ammon, Moab, Edom, Philistia
+- EZK 26:1-21 - Against Tyre
+- EZK 27:1-25 - Lament over Tyre
+- EZK 27:26-36 - The ship of Tyre sinks
+- EZK 28:1-10 - Against the prince of Tyre
+- EZK 28:11-19 - Lament over the king of Tyre
+- EZK 28:20-26 - Against Sidon
+- EZK 29:1-16 - Against Egypt
+- EZK 29:17-21 - Egypt for Babylon
+- EZK 30:1-19 - Lament for Egypt
+- EZK 30:20-26 - Pharaoh's arms broken
+- EZK 31:1-18 - Egypt as a great tree
+- EZK 32:1-16 - Lament for Pharaoh
+- EZK 32:17-32 - Egypt in Sheol
+- EZK 33:1-20 - Ezekiel the watchman
+- EZK 33:21-33 - News of Jerusalem's fall
+- EZK 34:1-10 - Against the shepherds
+- EZK 34:11-31 - The Lord the true shepherd
+- EZK 35:1-15 - Against Mount Seir
+- EZK 36:1-15 - Blessing on the mountains
+- EZK 36:16-38 - New heart promised
+- EZK 37:1-14 - Valley of dry bones
+- EZK 37:15-28 - Two sticks united
+- EZK 38:1-23 - Prophecy against Gog
+- EZK 39:1-16 - Gog's defeat
+- EZK 39:17-29 - The feast and restoration
+- EZK 40:1-27 - Vision of the temple
+- EZK 40:28-49 - Inner court and vestibule
+- EZK 41:1-26 - The inner temple
+- EZK 42:1-20 - Chambers for priests
+- EZK 43:1-12 - The glory returns
+- EZK 43:13-27 - The altar
+- EZK 44:1-14 - Gate for the prince
+- EZK 44:15-31 - Rules for priests
+- EZK 45:1-12 - Division of the land
+- EZK 45:13-25 - Offerings and festivals
+- EZK 46:1-18 - Regulations for worship
+- EZK 46:19-24 - The temple kitchens
+- EZK 47:1-12 - Water from the temple
+- EZK 47:13-23 - Boundaries of the land
+- EZK 48:1-29 - Division among the tribes
+- EZK 48:30-35 - Gates of the city
+
+## Daniel (DAN)
+
+- DAN 01:1-7 - Daniel taken to Babylon
+- DAN 01:8-21 - Daniel's faithfulness
+- DAN 02:1-23 - Nebuchadnezzar's dream
+- DAN 02:24-49 - Daniel interprets the dream
+- DAN 03:1-18 - The fiery furnace
+- DAN 03:19-30 - Deliverance from the furnace
+- DAN 04:1-18 - Nebuchadnezzar's second dream
+- DAN 04:19-37 - The dream fulfilled
+- DAN 05:1-12 - The writing on the wall
+- DAN 05:13-31 - Daniel interprets the writing
+- DAN 06:1-15 - Plot against Daniel
+- DAN 06:16-28 - Daniel in the lions' den
+- DAN 07:1-14 - Vision of four beasts
+- DAN 07:15-28 - Interpretation of the vision
+- DAN 08:1-14 - Vision of ram and goat
+- DAN 08:15-27 - Gabriel interprets
+- DAN 09:1-19 - Daniel's prayer
+- DAN 09:20-27 - Seventy weeks
+- DAN 10:1-11:1 - Vision by the river
+- DAN 11:2-20 - Kings of the south and north
+- DAN 11:21-45 - The contemptible person
+- DAN 12:1-13 - The time of the end
+
+## Hosea (HOS)
+
+- HOS 01:1-11 - Hosea's unfaithful wife
+- HOS 02:1-13 - Israel's unfaithfulness
+- HOS 02:14-23 - The Lord's promise of restoration
+- HOS 03:1-5 - Hosea redeems his wife
+- HOS 04:1-11 - Charge against Israel
+- HOS 04:12-19 - Idolatry condemned
+- HOS 05:1-15 - Judgment on Israel and Judah
+- HOS 06:1-11 - Call to repentance
+- HOS 07:1-16 - Israel's corruption
+- HOS 08:1-14 - Israel reaps the whirlwind
+- HOS 09:1-9 - Punishment for sin
+- HOS 09:10-17 - Israel's guilt
+- HOS 10:1-15 - Israel's empty vine
+- HOS 11:1-11 - God's love for Israel
+- HOS 11:12-12:14 - Jacob's example
+- HOS 13:1-16 - Death through idolatry
+- HOS 14:1-9 - Call to return
+
+## Joel (JOL)
+
+- JOL 01:1-12 - The locust plague
+- JOL 01:13-20 - Call to lament
+- JOL 02:1-11 - The day of the Lord
+- JOL 02:12-17 - Call to repentance
+- JOL 02:18-27 - The Lord's response
+- JOL 02:28-32 - The Spirit poured out
+- JOL 03:1-16 - Judgment on the nations
+- JOL 03:17-21 - Blessing on God's people
+
+## Amos (AMO)
+
+- AMO 01:1-2 - Introduction
+- AMO 01:3-2:3 - Judgment on surrounding nations
+- AMO 02:4-16 - Judgment on Judah and Israel
+- AMO 03:1-15 - Israel's guilt and punishment
+- AMO 04:1-13 - Israel has not returned
+- AMO 05:1-17 - Seek the Lord and live
+- AMO 05:18-27 - The day of the Lord
+- AMO 06:1-14 - Woe to the complacent
+- AMO 07:1-9 - Three visions of judgment
+- AMO 07:10-17 - Amos and Amaziah
+- AMO 08:1-14 - Vision of summer fruit
+- AMO 09:1-10 - Destruction of Israel
+- AMO 09:11-15 - Restoration promised
+
+## Obadiah (OBA)
+
+- OBA 01:1-9 - Edom's destruction
+- OBA 01:10-14 - Edom's violence against Jacob
+- OBA 01:15-21 - The day of the Lord
+
+## Jonah (JON)
+
+- JON 01:1-16 - Jonah flees from the Lord
+- JON 01:17-2:10 - Jonah's prayer
+- JON 03:1-10 - Nineveh repents
+- JON 04:1-11 - Jonah's anger and God's mercy
+
+## Micah (MIC)
+
+- MIC 01:1-7 - Judgment on Samaria
+- MIC 01:8-16 - Lament for Judah
+- MIC 02:1-11 - Woe to oppressors
+- MIC 02:12-13 - A remnant gathered
+- MIC 03:1-12 - Leaders and prophets condemned
+- MIC 04:1-8 - The mountain of the Lord
+- MIC 04:9-13 - Deliverance from Babylon
+- MIC 05:1-6 - The ruler from Bethlehem
+- MIC 05:7-15 - The remnant among the nations
+- MIC 06:1-8 - The Lord's case against Israel
+- MIC 06:9-16 - Indictment of Israel
+- MIC 07:1-7 - Israel's moral corruption
+- MIC 07:8-20 - God's compassion
+
+## Nahum (NAH)
+
+- NAH 01:1-8 - The Lord's anger against Nineveh
+- NAH 01:9-15 - Nineveh's destruction announced
+- NAH 02:1-13 - Nineveh's fall
+- NAH 03:1-19 - Woe to Nineveh
+
+## Habakkuk (HAB)
+
+- HAB 01:1-11 - Habakkuk's first complaint
+- HAB 01:12-2:1 - Habakkuk's second complaint
+- HAB 02:2-20 - The Lord's answer
+- HAB 03:1-19 - Habakkuk's prayer
+
+## Zephaniah (ZEP)
+
+- ZEP 01:1-6 - Judgment on Judah
+- ZEP 01:7-13 - The day of the Lord near
+- ZEP 01:14-18 - The great day of the Lord
+- ZEP 02:1-3 - Seek the Lord
+- ZEP 02:4-15 - Judgment on the nations
+- ZEP 03:1-8 - Woe to Jerusalem
+- ZEP 03:9-20 - Restoration promised
+
+## Haggai (HAG)
+
+- HAG 01:1-11 - Call to rebuild the temple
+- HAG 01:12-15 - The people obey
+- HAG 02:1-9 - The glory of the new temple
+- HAG 02:10-19 - Blessings for a defiled people
+- HAG 02:20-23 - Promise to Zerubbabel
+
+## Zechariah (ZEC)
+
+- ZEC 01:1-6 - Call to return to the Lord
+- ZEC 01:7-17 - Vision of the horsemen
+- ZEC 01:18-21 - Vision of the horns and craftsmen
+- ZEC 02:1-13 - Vision of the measuring line
+- ZEC 03:1-10 - Vision of Joshua the high priest
+- ZEC 04:1-14 - Vision of the lampstand
+- ZEC 05:1-4 - Vision of the flying scroll
+- ZEC 05:5-11 - Vision of the woman in a basket
+- ZEC 06:1-8 - Vision of the four chariots
+- ZEC 06:9-15 - The crown of Joshua
+- ZEC 07:1-14 - Fasting and obedience
+- ZEC 08:1-17 - Promises of blessing
+- ZEC 08:18-23 - Many nations will seek the Lord
+- ZEC 09:1-8 - Judgment on Israel's enemies
+- ZEC 09:9-17 - The coming king
+- ZEC 10:1-12 - The Lord will restore
+- ZEC 11:1-17 - The two shepherds
+- ZEC 12:1-9 - Jerusalem's deliverance
+- ZEC 12:10-14 - Mourning for the pierced one
+- ZEC 13:1-9 - Cleansing from sin
+- ZEC 14:1-11 - The day of the Lord
+- ZEC 14:12-21 - The Lord will be king
+
+## Malachi (MAL)
+
+- MAL 01:1-5 - God's love for Israel
+- MAL 01:6-14 - Contempt for God's name
+- MAL 02:1-9 - Warning to the priests
+- MAL 02:10-16 - Unfaithfulness in marriage
+- MAL 02:17-3:5 - The messenger of the covenant
+- MAL 03:6-12 - Robbing God
+- MAL 03:13-18 - Those who feared the Lord
+- MAL 04:1-6 - The day of the Lord
+
+## Matthew (MAT)
+
+- MAT 01:1-17 - Genealogy of Jesus
+- MAT 01:18-25 - Birth of Jesus
+- MAT 02:1-12 - Visit of the magi
+- MAT 02:13-18 - Flight to Egypt
+- MAT 02:19-23 - Return to Nazareth
+- MAT 03:1-12 - John the Baptist
+- MAT 03:13-17 - Baptism of Jesus
+- MAT 04:1-11 - Temptation of Jesus
+- MAT 04:12-17 - Jesus begins ministry in Galilee
+- MAT 04:18-25 - Calling disciples
+- MAT 05:1-12 - The Beatitudes
+- MAT 05:13-16 - Salt and light
+- MAT 05:17-20 - Jesus and the law
+- MAT 05:21-26 - Teaching on anger
+- MAT 05:27-32 - Teaching on lust and divorce
+- MAT 05:33-37 - Teaching on oaths
+- MAT 05:38-48 - Teaching on retaliation and love
+- MAT 06:1-4 - Teaching on giving
+- MAT 06:5-15 - Teaching on prayer
+- MAT 06:16-18 - Teaching on fasting
+- MAT 06:19-24 - Treasures and masters
+- MAT 06:25-34 - Do not be anxious
+- MAT 07:1-6 - Judging others
+- MAT 07:7-12 - Ask, seek, knock
+- MAT 07:13-14 - The narrow gate
+- MAT 07:15-23 - Tree and its fruit
+- MAT 07:24-29 - Wise and foolish builders
+- MAT 08:1-4 - Cleansing a leper
+- MAT 08:5-13 - Centurion's faith
+- MAT 08:14-17 - Healings at Peter's house
+- MAT 08:18-22 - Cost of following Jesus
+- MAT 08:23-27 - Calming the storm
+- MAT 08:28-34 - Gadarene demoniacs
+- MAT 09:1-8 - Healing the paralytic
+- MAT 09:9-13 - Call of Matthew
+- MAT 09:14-17 - Question about fasting
+- MAT 09:18-26 - Ruler's daughter and woman with bleeding
+- MAT 09:27-34 - Two blind men and mute demoniac
+- MAT 09:35-38 - Harvest is plentiful
+- MAT 10:1-15 - Sending out the twelve
+- MAT 10:16-25 - Persecution predicted
+- MAT 10:26-33 - Fear God, not man
+- MAT 10:34-42 - Division and rewards
+- MAT 11:1-19 - Jesus and John the Baptist
+- MAT 11:20-24 - Woe to unrepentant cities
+- MAT 11:25-30 - Come to me, all who labor
+- MAT 12:1-14 - Lord of the Sabbath
+- MAT 12:15-21 - God's chosen servant
+- MAT 12:22-32 - Blasphemy against the Spirit
+- MAT 12:33-37 - Tree known by its fruit
+- MAT 12:38-45 - Sign of Jonah
+- MAT 12:46-50 - Jesus' true family
+- MAT 13:1-9 - Parable of the sower
+- MAT 13:10-17 - Purpose of parables
+- MAT 13:18-23 - Parable of the sower explained
+- MAT 13:24-30 - Parable of the weeds
+- MAT 13:31-35 - Mustard seed and leaven
+- MAT 13:36-43 - Weeds explained
+- MAT 13:44-46 - Hidden treasure and pearl
+- MAT 13:47-52 - Parable of the net
+- MAT 13:53-58 - Rejection at Nazareth
+- MAT 14:1-12 - Death of John the Baptist
+- MAT 14:13-21 - Feeding the five thousand
+- MAT 14:22-33 - Jesus walks on water
+- MAT 14:34-36 - Healings at Gennesaret
+- MAT 15:1-20 - Tradition and defilement
+- MAT 15:21-28 - Canaanite woman's faith
+- MAT 15:29-39 - Feeding the four thousand
+- MAT 16:1-12 - Pharisees demand a sign
+- MAT 16:13-20 - Peter's confession
+- MAT 16:21-28 - Jesus predicts his death
+- MAT 17:1-13 - The transfiguration
+- MAT 17:14-21 - Healing the boy with a demon
+- MAT 17:22-23 - Second prediction of death
+- MAT 17:24-27 - The temple tax
+- MAT 18:1-9 - Who is the greatest
+- MAT 18:10-14 - Parable of the lost sheep
+- MAT 18:15-20 - If your brother sins
+- MAT 18:21-35 - Parable of the unforgiving servant
+- MAT 19:1-12 - Teaching on divorce
+- MAT 19:13-15 - Let the children come
+- MAT 19:16-30 - The rich young man
+- MAT 20:1-16 - Workers in the vineyard
+- MAT 20:17-19 - Third prediction of death
+- MAT 20:20-28 - Request of James and John
+- MAT 20:29-34 - Two blind men healed
+- MAT 21:1-11 - Triumphal entry
+- MAT 21:12-17 - Cleansing the temple
+- MAT 21:18-22 - Cursing the fig tree
+- MAT 21:23-27 - Authority questioned
+- MAT 21:28-32 - Parable of two sons
+- MAT 21:33-46 - Parable of the tenants
+- MAT 22:1-14 - Parable of the wedding feast
+- MAT 22:15-22 - Paying taxes to Caesar
+- MAT 22:23-33 - Sadducees and resurrection
+- MAT 22:34-40 - The great commandment
+- MAT 22:41-46 - Whose son is the Christ
+- MAT 23:1-12 - Woe to scribes and Pharisees
+- MAT 23:13-36 - Seven woes
+- MAT 23:37-39 - Lament over Jerusalem
+- MAT 24:1-14 - Signs of the end
+- MAT 24:15-28 - The great tribulation
+- MAT 24:29-35 - Coming of the Son of Man
+- MAT 24:36-44 - No one knows the day
+- MAT 24:45-51 - Faithful and wicked servants
+- MAT 25:1-13 - Parable of the ten virgins
+- MAT 25:14-30 - Parable of the talents
+- MAT 25:31-46 - The final judgment
+- MAT 26:1-5 - Plot to kill Jesus
+- MAT 26:6-13 - Anointing at Bethany
+- MAT 26:14-16 - Judas agrees to betray
+- MAT 26:17-30 - The Last Supper
+- MAT 26:31-35 - Peter's denial predicted
+- MAT 26:36-46 - Gethsemane
+- MAT 26:47-56 - Arrest of Jesus
+- MAT 26:57-68 - Jesus before Caiaphas
+- MAT 26:69-75 - Peter denies Jesus
+- MAT 27:1-10 - Judas hangs himself
+- MAT 27:11-26 - Jesus before Pilate
+- MAT 27:27-44 - Crucifixion of Jesus
+- MAT 27:45-56 - Death of Jesus
+- MAT 27:57-66 - Burial of Jesus
+- MAT 28:1-10 - The resurrection
+- MAT 28:11-15 - The guard's report
+- MAT 28:16-20 - The Great Commission
+
+## Mark (MRK)
+
+- MRK 01:1-8 - John the Baptist
+- MRK 01:9-13 - Baptism and temptation
+- MRK 01:14-20 - Jesus begins ministry and calls disciples
+- MRK 01:21-28 - Authority over demons
+- MRK 01:29-34 - Healings at Simon's house
+- MRK 01:35-45 - Preaching in Galilee
+- MRK 02:1-12 - Healing the paralytic
+- MRK 02:13-17 - Call of Levi
+- MRK 02:18-22 - Question about fasting
+- MRK 02:23-28 - Lord of the Sabbath
+- MRK 03:1-6 - Healing on the Sabbath
+- MRK 03:7-12 - Crowds follow Jesus
+- MRK 03:13-19 - Appointing the twelve
+- MRK 03:20-30 - Blasphemy against the Spirit
+- MRK 03:31-35 - Jesus' true family
+- MRK 04:1-20 - Parable of the sower
+- MRK 04:21-25 - Lamp under a basket
+- MRK 04:26-34 - Growing seed and mustard seed
+- MRK 04:35-41 - Calming the storm
+- MRK 05:1-20 - Gerasene demoniac
+- MRK 05:21-34 - Jairus's daughter and woman with bleeding
+- MRK 05:35-43 - Jairus's daughter raised
+- MRK 06:1-6 - Rejection at Nazareth
+- MRK 06:7-13 - Sending out the twelve
+- MRK 06:14-29 - Death of John the Baptist
+- MRK 06:30-44 - Feeding the five thousand
+- MRK 06:45-52 - Jesus walks on water
+- MRK 06:53-56 - Healings at Gennesaret
+- MRK 07:1-23 - Tradition and defilement
+- MRK 07:24-30 - Syrophoenician woman's faith
+- MRK 07:31-37 - Healing a deaf man
+- MRK 08:1-10 - Feeding the four thousand
+- MRK 08:11-13 - Pharisees demand a sign
+- MRK 08:14-21 - Leaven of the Pharisees
+- MRK 08:22-26 - Blind man at Bethsaida
+- MRK 08:27-30 - Peter's confession
+- MRK 08:31-9:1 - Jesus predicts his death
+- MRK 09:2-13 - The transfiguration
+- MRK 09:14-29 - Healing the boy with a demon
+- MRK 09:30-32 - Second prediction of death
+- MRK 09:33-37 - Who is the greatest
+- MRK 09:38-50 - Warnings about sin
+- MRK 10:1-12 - Teaching on divorce
+- MRK 10:13-16 - Let the children come
+- MRK 10:17-31 - The rich young man
+- MRK 10:32-34 - Third prediction of death
+- MRK 10:35-45 - Request of James and John
+- MRK 10:46-52 - Blind Bartimaeus
+- MRK 11:1-11 - Triumphal entry
+- MRK 11:12-14 - Cursing the fig tree
+- MRK 11:15-19 - Cleansing the temple
+- MRK 11:20-26 - Lesson from the fig tree
+- MRK 11:27-33 - Authority questioned
+- MRK 12:1-12 - Parable of the tenants
+- MRK 12:13-17 - Paying taxes to Caesar
+- MRK 12:18-27 - Sadducees and resurrection
+- MRK 12:28-34 - The great commandment
+- MRK 12:35-37 - Whose son is the Christ
+- MRK 12:38-44 - Warning and widow's offering
+- MRK 13:1-13 - Signs of the end
+- MRK 13:14-23 - The great tribulation
+- MRK 13:24-31 - Coming of the Son of Man
+- MRK 13:32-37 - No one knows the day
+- MRK 14:1-11 - Plot and anointing
+- MRK 14:12-26 - The Last Supper
+- MRK 14:27-31 - Peter's denial predicted
+- MRK 14:32-42 - Gethsemane
+- MRK 14:43-52 - Arrest of Jesus
+- MRK 14:53-65 - Jesus before the council
+- MRK 14:66-72 - Peter denies Jesus
+- MRK 15:1-15 - Jesus before Pilate
+- MRK 15:16-32 - Crucifixion of Jesus
+- MRK 15:33-41 - Death of Jesus
+- MRK 15:42-47 - Burial of Jesus
+- MRK 16:1-8 - The resurrection
+- MRK 16:9-20 - Appearances and commission
+
+## Luke (LUK)
+
+- LUK 01:1-4 - Dedication to Theophilus
+- LUK 01:5-25 - Birth of John foretold
+- LUK 01:26-38 - Birth of Jesus foretold
+- LUK 01:39-56 - Mary visits Elizabeth
+- LUK 01:57-66 - Birth of John
+- LUK 01:67-80 - Zechariah's prophecy
+- LUK 02:1-7 - Birth of Jesus
+- LUK 02:8-20 - Shepherds and angels
+- LUK 02:21-40 - Presentation in the temple
+- LUK 02:41-52 - Boy Jesus in the temple
+- LUK 03:1-20 - John the Baptist
+- LUK 03:21-22 - Baptism of Jesus
+- LUK 03:23-38 - Genealogy of Jesus
+- LUK 04:1-13 - Temptation of Jesus
+- LUK 04:14-30 - Rejection at Nazareth
+- LUK 04:31-44 - Ministry in Capernaum
+- LUK 05:1-11 - Calling the first disciples
+- LUK 05:12-16 - Cleansing a leper
+- LUK 05:17-26 - Healing the paralytic
+- LUK 05:27-32 - Call of Levi
+- LUK 05:33-39 - Question about fasting
+- LUK 06:1-11 - Lord of the Sabbath
+- LUK 06:12-16 - Choosing the twelve
+- LUK 06:17-26 - Blessings and woes
+- LUK 06:27-36 - Love your enemies
+- LUK 06:37-42 - Judging others
+- LUK 06:43-49 - Tree and its fruit
+- LUK 07:1-10 - Centurion's faith
+- LUK 07:11-17 - Widow's son raised
+- LUK 07:18-35 - Jesus and John the Baptist
+- LUK 07:36-50 - Sinful woman anoints Jesus
+- LUK 08:1-3 - Women who followed Jesus
+- LUK 08:4-15 - Parable of the sower
+- LUK 08:16-18 - Lamp under a jar
+- LUK 08:19-21 - Jesus' true family
+- LUK 08:22-25 - Calming the storm
+- LUK 08:26-39 - Gerasene demoniac
+- LUK 08:40-56 - Jairus's daughter and woman with bleeding
+- LUK 09:1-9 - Sending out the twelve
+- LUK 09:10-17 - Feeding the five thousand
+- LUK 09:18-27 - Peter's confession
+- LUK 09:28-36 - The transfiguration
+- LUK 09:37-45 - Healing and prediction
+- LUK 09:46-50 - Who is the greatest
+- LUK 09:51-62 - Following Jesus
+- LUK 10:1-16 - Sending out the seventy-two
+- LUK 10:17-24 - Return of the seventy-two
+- LUK 10:25-37 - Parable of the good Samaritan
+- LUK 10:38-42 - Mary and Martha
+- LUK 11:1-13 - Teaching on prayer
+- LUK 11:14-28 - Jesus and Beelzebul
+- LUK 11:29-36 - Sign of Jonah
+- LUK 11:37-54 - Woes to Pharisees and lawyers
+- LUK 12:1-12 - Warnings and encouragements
+- LUK 12:13-21 - Parable of the rich fool
+- LUK 12:22-34 - Do not be anxious
+- LUK 12:35-48 - Ready servants
+- LUK 12:49-59 - Division and signs of the times
+- LUK 13:1-9 - Repent or perish
+- LUK 13:10-17 - Healing on the Sabbath
+- LUK 13:18-21 - Mustard seed and leaven
+- LUK 13:22-30 - The narrow door
+- LUK 13:31-35 - Lament over Jerusalem
+- LUK 14:1-14 - Healing and humility
+- LUK 14:15-24 - Parable of the great banquet
+- LUK 14:25-35 - Cost of discipleship
+- LUK 15:1-7 - Parable of the lost sheep
+- LUK 15:8-10 - Parable of the lost coin
+- LUK 15:11-32 - Parable of the prodigal son
+- LUK 16:1-13 - Parable of the dishonest manager
+- LUK 16:14-18 - Law and divorce
+- LUK 16:19-31 - Rich man and Lazarus
+- LUK 17:1-10 - Sin, faith, and duty
+- LUK 17:11-19 - Ten lepers cleansed
+- LUK 17:20-37 - Coming of the kingdom
+- LUK 18:1-8 - Parable of the persistent widow
+- LUK 18:9-14 - Pharisee and tax collector
+- LUK 18:15-17 - Let the children come
+- LUK 18:18-30 - The rich ruler
+- LUK 18:31-34 - Third prediction of death
+- LUK 18:35-43 - Blind man near Jericho
+- LUK 19:1-10 - Zacchaeus the tax collector
+- LUK 19:11-27 - Parable of the ten minas
+- LUK 19:28-40 - Triumphal entry
+- LUK 19:41-48 - Weeping over Jerusalem
+- LUK 20:1-8 - Authority questioned
+- LUK 20:9-19 - Parable of the tenants
+- LUK 20:20-26 - Paying taxes to Caesar
+- LUK 20:27-40 - Sadducees and resurrection
+- LUK 20:41-47 - David's son and warning
+- LUK 21:1-4 - Widow's offering
+- LUK 21:5-19 - Signs of the end
+- LUK 21:20-28 - Destruction and redemption
+- LUK 21:29-38 - Fig tree and readiness
+- LUK 22:1-6 - Plot and betrayal
+- LUK 22:7-23 - The Last Supper
+- LUK 22:24-30 - Dispute about greatness
+- LUK 22:31-38 - Peter's denial predicted
+- LUK 22:39-46 - Gethsemane
+- LUK 22:47-53 - Arrest of Jesus
+- LUK 22:54-62 - Peter denies Jesus
+- LUK 22:63-71 - Jesus before the council
+- LUK 23:1-12 - Jesus before Pilate and Herod
+- LUK 23:13-25 - Jesus sentenced to death
+- LUK 23:26-43 - Crucifixion of Jesus
+- LUK 23:44-49 - Death of Jesus
+- LUK 23:50-56 - Burial of Jesus
+- LUK 24:1-12 - The resurrection
+- LUK 24:13-35 - Road to Emmaus
+- LUK 24:36-49 - Jesus appears to disciples
+- LUK 24:50-53 - The ascension
+
+## John (JHN)
+
+- JHN 01:1-18 - The Word became flesh
+- JHN 01:19-28 - Testimony of John
+- JHN 01:29-34 - Behold the Lamb of God
+- JHN 01:35-51 - First disciples
+- JHN 02:1-12 - Wedding at Cana
+- JHN 02:13-25 - Cleansing the temple
+- JHN 03:1-15 - Nicodemus and new birth
+- JHN 03:16-21 - For God so loved the world
+- JHN 03:22-36 - John's final testimony
+- JHN 04:1-26 - Woman at the well
+- JHN 04:27-42 - Samaritan harvest
+- JHN 04:43-54 - Official's son healed
+- JHN 05:1-18 - Healing at the pool
+- JHN 05:19-30 - The Son's authority
+- JHN 05:31-47 - Witnesses to Jesus
+- JHN 06:1-15 - Feeding the five thousand
+- JHN 06:16-21 - Jesus walks on water
+- JHN 06:22-40 - Bread of life
+- JHN 06:41-59 - Jesus the true bread
+- JHN 06:60-71 - Words of eternal life
+- JHN 07:1-13 - Jesus at the feast
+- JHN 07:14-24 - Teaching at the feast
+- JHN 07:25-36 - Is this the Christ
+- JHN 07:37-52 - Rivers of living water
+- JHN 07:53-8:11 - Woman caught in adultery
+- JHN 08:12-20 - Light of the world
+- JHN 08:21-30 - Where I am going
+- JHN 08:31-47 - The truth will set you free
+- JHN 08:48-59 - Before Abraham was, I am
+- JHN 09:1-12 - Healing the man born blind
+- JHN 09:13-34 - Pharisees investigate
+- JHN 09:35-41 - Spiritual blindness
+- JHN 10:1-21 - The good shepherd
+- JHN 10:22-42 - I and the Father are one
+- JHN 11:1-16 - Death of Lazarus
+- JHN 11:17-37 - Jesus comforts the sisters
+- JHN 11:38-44 - Lazarus raised
+- JHN 11:45-57 - Plot to kill Jesus
+- JHN 12:1-11 - Anointing at Bethany
+- JHN 12:12-19 - Triumphal entry
+- JHN 12:20-36 - The hour has come
+- JHN 12:37-50 - Unbelief of the people
+- JHN 13:1-17 - Jesus washes feet
+- JHN 13:18-30 - Judas identified
+- JHN 13:31-38 - New commandment
+- JHN 14:1-14 - I am the way
+- JHN 14:15-31 - Promise of the Spirit
+- JHN 15:1-17 - I am the vine
+- JHN 15:18-27 - Hatred of the world
+- JHN 16:1-15 - Work of the Spirit
+- JHN 16:16-33 - Sorrow turned to joy
+- JHN 17:1-5 - Jesus prays for himself
+- JHN 17:6-19 - Jesus prays for disciples
+- JHN 17:20-26 - Jesus prays for all believers
+- JHN 18:1-11 - Arrest of Jesus
+- JHN 18:12-27 - Jesus before Annas and Peter's denial
+- JHN 18:28-40 - Jesus before Pilate
+- JHN 19:1-16 - Jesus sentenced
+- JHN 19:17-27 - Crucifixion of Jesus
+- JHN 19:28-37 - Death of Jesus
+- JHN 19:38-42 - Burial of Jesus
+- JHN 20:1-10 - The empty tomb
+- JHN 20:11-18 - Jesus appears to Mary
+- JHN 20:19-23 - Jesus appears to disciples
+- JHN 20:24-31 - Jesus and Thomas
+- JHN 21:1-14 - Appearance at the sea
+- JHN 21:15-25 - Jesus and Peter
+
+## Acts (ACT)
+
+- ACT 01:1-11 - The ascension
+- ACT 01:12-26 - Matthias chosen
+- ACT 02:1-13 - The day of Pentecost
+- ACT 02:14-36 - Peter's sermon
+- ACT 02:37-47 - The first converts
+- ACT 03:1-10 - Lame man healed
+- ACT 03:11-26 - Peter's second sermon
+- ACT 04:1-22 - Peter and John before the council
+- ACT 04:23-31 - Prayer for boldness
+- ACT 04:32-37 - Sharing possessions
+- ACT 05:1-11 - Ananias and Sapphira
+- ACT 05:12-16 - Signs and wonders
+- ACT 05:17-42 - Apostles persecuted
+- ACT 06:1-7 - Seven chosen
+- ACT 06:8-15 - Stephen arrested
+- ACT 07:1-53 - Stephen's speech
+- ACT 07:54-8:3 - Stephen martyred
+- ACT 08:4-25 - Philip in Samaria
+- ACT 08:26-40 - Philip and the Ethiopian
+- ACT 09:1-19 - Conversion of Saul
+- ACT 09:20-31 - Saul begins preaching
+- ACT 09:32-43 - Peter heals and raises
+- ACT 10:1-23 - Cornelius and Peter
+- ACT 10:24-48 - Gentiles receive the Spirit
+- ACT 11:1-18 - Peter's report
+- ACT 11:19-30 - Church at Antioch
+- ACT 12:1-19 - Peter's escape
+- ACT 12:20-25 - Death of Herod
+- ACT 13:1-12 - Barnabas and Saul sent
+- ACT 13:13-41 - Paul's sermon in Antioch
+- ACT 13:42-52 - Response and rejection
+- ACT 14:1-7 - Iconium
+- ACT 14:8-20 - Lystra
+- ACT 14:21-28 - Return to Antioch
+- ACT 15:1-21 - Jerusalem council
+- ACT 15:22-35 - Letter to Gentile believers
+- ACT 15:36-41 - Paul and Barnabas separate
+- ACT 16:1-10 - Timothy joins; Macedonian call
+- ACT 16:11-15 - Lydia converted
+- ACT 16:16-24 - Paul and Silas imprisoned
+- ACT 16:25-40 - Jailer converted
+- ACT 17:1-9 - Thessalonica
+- ACT 17:10-15 - Berea
+- ACT 17:16-34 - Athens
+- ACT 18:1-17 - Corinth
+- ACT 18:18-28 - Apollos
+- ACT 19:1-10 - Ephesus
+- ACT 19:11-22 - Miracles at Ephesus
+- ACT 19:23-41 - Riot in Ephesus
+- ACT 20:1-12 - Through Macedonia and Troas
+- ACT 20:13-38 - Farewell to Ephesian elders
+- ACT 21:1-16 - Journey to Jerusalem
+- ACT 21:17-26 - Paul meets James
+- ACT 21:27-36 - Paul arrested
+- ACT 21:37-22:21 - Paul's defense
+- ACT 22:22-29 - Paul the Roman citizen
+- ACT 22:30-23:11 - Paul before the council
+- ACT 23:12-35 - Plot against Paul
+- ACT 24:1-27 - Paul before Felix
+- ACT 25:1-12 - Paul appeals to Caesar
+- ACT 25:13-27 - Festus and Agrippa
+- ACT 26:1-32 - Paul before Agrippa
+- ACT 27:1-26 - Voyage and storm
+- ACT 27:27-44 - Shipwreck
+- ACT 28:1-10 - Malta
+- ACT 28:11-31 - Paul in Rome
+
+## Romans (ROM)
+
+- ROM 01:1-7 - Greeting
+- ROM 01:8-17 - Longing to visit Rome
+- ROM 01:18-32 - God's wrath on unrighteousness
+- ROM 02:1-16 - God's righteous judgment
+- ROM 02:17-29 - Jews and the law
+- ROM 03:1-20 - No one is righteous
+- ROM 03:21-31 - Righteousness through faith
+- ROM 04:1-12 - Abraham justified by faith
+- ROM 04:13-25 - The promise through faith
+- ROM 05:1-11 - Peace with God
+- ROM 05:12-21 - Adam and Christ
+- ROM 06:1-14 - Dead to sin, alive to God
+- ROM 06:15-23 - Slaves to righteousness
+- ROM 07:1-6 - Released from the law
+- ROM 07:7-25 - The law and sin
+- ROM 08:1-11 - Life in the Spirit
+- ROM 08:12-17 - Children of God
+- ROM 08:18-30 - Future glory
+- ROM 08:31-39 - More than conquerors
+- ROM 09:1-18 - God's sovereign choice
+- ROM 09:19-33 - God's wrath and mercy
+- ROM 10:1-13 - Salvation for all who believe
+- ROM 10:14-21 - Israel hears but rejects
+- ROM 11:1-10 - A remnant chosen
+- ROM 11:11-24 - Gentiles grafted in
+- ROM 11:25-36 - All Israel will be saved
+- ROM 12:1-8 - Living sacrifices
+- ROM 12:9-21 - Marks of a Christian
+- ROM 13:1-7 - Submission to authorities
+- ROM 13:8-14 - Love fulfills the law
+- ROM 14:1-12 - Do not pass judgment
+- ROM 14:13-23 - Do not cause stumbling
+- ROM 15:1-13 - Christ the example
+- ROM 15:14-33 - Paul's ministry and plans
+- ROM 16:1-16 - Personal greetings
+- ROM 16:17-27 - Final instructions and doxology
+
+## 1 Corinthians (1CO)
+
+- 1CO 01:1-9 - Greeting and thanksgiving
+- 1CO 01:10-17 - Divisions in the church
+- 1CO 01:18-31 - Wisdom of the cross
+- 1CO 02:1-16 - Wisdom from the Spirit
+- 1CO 03:1-9 - Divisions and workers
+- 1CO 03:10-23 - Building on the foundation
+- 1CO 04:1-21 - Servants of Christ
+- 1CO 05:1-13 - Sexual immorality judged
+- 1CO 06:1-11 - Lawsuits among believers
+- 1CO 06:12-20 - Flee sexual immorality
+- 1CO 07:1-16 - Marriage principles
+- 1CO 07:17-40 - Called to remain
+- 1CO 08:1-13 - Food offered to idols
+- 1CO 09:1-18 - Rights of an apostle
+- 1CO 09:19-27 - All things to all people
+- 1CO 10:1-13 - Warnings from Israel's history
+- 1CO 10:14-22 - Flee idolatry
+- 1CO 10:23-11:1 - Do all for God's glory
+- 1CO 11:2-16 - Head coverings
+- 1CO 11:17-34 - The Lord's Supper
+- 1CO 12:1-11 - Spiritual gifts
+- 1CO 12:12-31 - One body, many members
+- 1CO 13:1-13 - The way of love
+- 1CO 14:1-25 - Prophecy and tongues
+- 1CO 14:26-40 - Orderly worship
+- 1CO 15:1-11 - The resurrection of Christ
+- 1CO 15:12-34 - The resurrection of the dead
+- 1CO 15:35-58 - The resurrection body
+- 1CO 16:1-12 - Collection and plans
+- 1CO 16:13-24 - Final exhortations
+
+## 2 Corinthians (2CO)
+
+- 2CO 01:1-11 - Comfort in affliction
+- 2CO 01:12-24 - Paul's sincerity
+- 2CO 02:1-11 - Forgive the offender
+- 2CO 02:12-17 - Triumph in Christ
+- 2CO 03:1-18 - Ministers of a new covenant
+- 2CO 04:1-6 - Light of the gospel
+- 2CO 04:7-18 - Treasure in jars of clay
+- 2CO 05:1-10 - Eternal dwelling
+- 2CO 05:11-21 - Ministry of reconciliation
+- 2CO 06:1-13 - Paul's hardships
+- 2CO 06:14-7:1 - Unequal yoke
+- 2CO 07:2-16 - Paul's joy
+- 2CO 08:1-15 - Encouragement to give
+- 2CO 08:16-24 - Commendation of Titus
+- 2CO 09:1-15 - Cheerful giving
+- 2CO 10:1-18 - Paul defends his ministry
+- 2CO 11:1-15 - Paul and false apostles
+- 2CO 11:16-33 - Paul's sufferings
+- 2CO 12:1-10 - Paul's visions and thorn
+- 2CO 12:11-21 - Concern for the Corinthians
+- 2CO 13:1-14 - Final warnings and greetings
+
+## Galatians (GAL)
+
+- GAL 01:1-10 - No other gospel
+- GAL 01:11-24 - Paul's calling
+- GAL 02:1-10 - Accepted by the apostles
+- GAL 02:11-21 - Paul opposes Peter
+- GAL 03:1-14 - Faith or works of the law
+- GAL 03:15-29 - Law and promise
+- GAL 04:1-11 - Sons and heirs
+- GAL 04:12-20 - Paul's concern
+- GAL 04:21-31 - Hagar and Sarah
+- GAL 05:1-15 - Freedom in Christ
+- GAL 05:16-26 - Walk by the Spirit
+- GAL 06:1-10 - Bear one another's burdens
+- GAL 06:11-18 - Final warning and blessing
+
+## Ephesians (EPH)
+
+- EPH 01:1-14 - Spiritual blessings in Christ
+- EPH 01:15-23 - Prayer for the Ephesians
+- EPH 02:1-10 - Made alive in Christ
+- EPH 02:11-22 - One in Christ
+- EPH 03:1-13 - Mystery of the gospel
+- EPH 03:14-21 - Prayer for strength
+- EPH 04:1-16 - Unity in the body
+- EPH 04:17-32 - The new self
+- EPH 05:1-21 - Walk in love and light
+- EPH 05:22-33 - Husbands and wives
+- EPH 06:1-9 - Children, parents, servants, masters
+- EPH 06:10-20 - Armor of God
+- EPH 06:21-24 - Final greetings
+
+## Philippians (PHP)
+
+- PHP 01:1-11 - Thanksgiving and prayer
+- PHP 01:12-26 - Paul's circumstances
+- PHP 01:27-30 - Worthy of the gospel
+- PHP 02:1-11 - Christ's humility
+- PHP 02:12-18 - Shine as lights
+- PHP 02:19-30 - Timothy and Epaphroditus
+- PHP 03:1-11 - Righteousness through faith
+- PHP 03:12-21 - Pressing toward the goal
+- PHP 04:1-9 - Exhortations
+- PHP 04:10-23 - Contentment and thanks
+
+## Colossians (COL)
+
+- COL 01:1-14 - Thanksgiving and prayer
+- COL 01:15-23 - Preeminence of Christ
+- COL 01:24-2:5 - Paul's ministry
+- COL 02:6-23 - Alive in Christ
+- COL 03:1-11 - 
+- COL 03:12-17 - Putting On the New Self
+- COL 03:18-4:1 - Rules for households
+- COL 04:2-18 - Final instructions
+
+## 1 Thessalonians (1TH)
+
+- 1TH 01:1-10 - Thanksgiving for faith
+- 1TH 02:1-12 - Paul's ministry
+- 1TH 02:13-20 - Paul's longing
+- 1TH 03:1-13 - Timothy's report
+- 1TH 04:1-12 - Living to please God
+- 1TH 04:13-18 - The coming of the Lord
+- 1TH 05:1-11 - The day of the Lord
+- 1TH 05:12-28 - Final instructions
+
+## 2 Thessalonians (2TH)
+
+- 2TH 01:1-12 - Thanksgiving and prayer
+- 2TH 02:1-12 - The man of lawlessness
+- 2TH 02:13-17 - Stand firm
+- 2TH 03:1-18 - Warning against idleness
+
+## 1 Timothy (1TI)
+
+- 1TI 01:1-11 - Warning against false teachers
+- 1TI 01:12-20 - Paul's testimony
+- 1TI 02:1-15 - Instructions for worship
+- 1TI 03:1-13 - Qualifications for overseers and deacons
+- 1TI 03:14-16 - Mystery of godliness
+- 1TI 04:1-16 - Timothy's ministry
+- 1TI 05:1-16 - Widows, elders, slaves
+- 1TI 05:17-25 - Elders
+- 1TI 06:1-10 - False teachers and money
+- 1TI 06:11-21 - Fight the good fight
+
+## 2 Timothy (2TI)
+
+- 2TI 01:1-14 - Guard the good deposit
+- 2TI 01:15-18 - Onesiphorus
+- 2TI 02:1-13 - A good soldier
+- 2TI 02:14-26 - An approved worker
+- 2TI 03:1-9 - Godlessness in the last days
+- 2TI 03:10-17 - All Scripture is inspired
+- 2TI 04:1-8 - Preach the word
+- 2TI 04:9-22 - Personal remarks
+
+## Titus (TIT)
+
+- TIT 01:1-4 - Greeting
+- TIT 01:5-16 - Qualifications for elders
+- TIT 02:1-10 - Teaching sound doctrine
+- TIT 02:11-15 - The grace of God
+- TIT 03:1-11 - Saved to do good
+- TIT 03:12-15 - Final instructions
+
+## Philemon (PHM)
+
+- PHM 01:1-7 - Greeting and thanksgiving
+- PHM 01:8-21 - Paul's plea for Onesimus
+- PHM 01:22-25 - Final greetings
+
+## Hebrews (HEB)
+
+- HEB 01:1-4 - God has spoken by his Son
+- HEB 01:5-14 - The Son superior to angels
+- HEB 02:1-4 - Warning to pay attention
+- HEB 02:5-18 - Jesus made like his brothers
+- HEB 03:1-6 - Jesus greater than Moses
+- HEB 03:7-19 - Warning against unbelief
+- HEB 04:1-13 - The promise of rest
+- HEB 04:14-16 - Jesus the great high priest
+- HEB 05:1-10 - The source of salvation
+- HEB 05:11-6:12 - Warning against falling away
+- HEB 06:13-20 - The certainty of God's promise
+- HEB 07:1-10 - Melchizedek and Abraham
+- HEB 07:11-28 - Jesus like Melchizedek
+- HEB 08:1-13 - A better covenant
+- HEB 09:1-10 - The earthly sanctuary
+- HEB 09:11-28 - Christ's sacrifice
+- HEB 10:1-18 - Christ's sacrifice once for all
+- HEB 10:19-39 - Call to persevere
+- HEB 11:1-16 - Faith of the ancients
+- HEB 11:17-40 - More examples of faith
+- HEB 12:1-13 - Jesus the founder of our faith
+- HEB 12:14-29 - Warning against refusing God
+- HEB 13:1-19 - Sacrifices pleasing to God
+- HEB 13:20-25 - Benediction
+
+## James (JAS)
+
+- JAS 01:1-11 - Trials and temptations
+- JAS 01:12-18 - God does not tempt
+- JAS 01:19-27 - Doers of the word
+- JAS 02:1-13 - Do not show partiality
+- JAS 02:14-26 - Faith without works is dead
+- JAS 03:1-12 - Taming the tongue
+- JAS 03:13-18 - Wisdom from above
+- JAS 04:1-12 - Warning against worldliness
+- JAS 04:13-17 - Boasting about tomorrow
+- JAS 05:1-6 - Warning to the rich
+- JAS 05:7-12 - Patience and prayer
+- JAS 05:13-20 - Prayer of faith
+
+## 1 Peter (1PE)
+
+- 1PE 01:1-12 - A living hope
+- 1PE 01:13-25 - Be holy
+- 1PE 02:1-10 - A spiritual house
+- 1PE 02:11-17 - Submission to authority
+- 1PE 02:18-25 - Suffering servants
+- 1PE 03:1-7 - Wives and husbands
+- 1PE 03:8-22 - Suffering for righteousness
+- 1PE 04:1-11 - Stewards of grace
+- 1PE 04:12-19 - Suffering as a Christian
+- 1PE 05:1-11 - Shepherding the flock
+- 1PE 05:12-14 - Final greetings
+
+## 2 Peter (2PE)
+
+- 2PE 01:1-11 - Confirm your calling
+- 2PE 01:12-21 - Eyewitnesses of his majesty
+- 2PE 02:1-22 - False teachers
+- 2PE 03:1-10 - The day of the Lord
+- 2PE 03:11-18 - New heavens and earth
+
+## 1 John (1JN)
+
+- 1JN 01:1-4 - The word of life
+- 1JN 01:5-10 - Walking in the light
+- 1JN 02:1-11 - Christ our advocate
+- 1JN 02:12-17 - Do not love the world
+- 1JN 02:18-27 - Warning against antichrists
+- 1JN 02:28-3:10 - Children of God
+- 1JN 03:11-24 - Love one another
+- 1JN 04:1-6 - Test the spirits
+- 1JN 04:7-21 - God is love
+- 1JN 05:1-12 - Faith overcomes the world
+- 1JN 05:13-21 - Assurance of eternal life
+
+## 2 John (2JN)
+
+- 2JN 01:1-6 - Walk in truth and love
+- 2JN 01:7-13 - Warning against deceivers
+
+## 3 John (3JN)
+
+- 3JN 01:1-8 - Support for workers
+- 3JN 01:9-15 - Diotrephes and Demetrius
+
+## Jude (JUD)
+
+- JUD 01:1-4 - Greeting and occasion
+- JUD 01:5-16 - Warning against false teachers
+- JUD 01:17-25 - Exhortation and doxology
+
+## Revelation (REV)
+
+- REV 01:1-8 - Prologue
+- REV 01:9-20 - Vision of Christ
+- REV 02:1-7 - To Ephesus
+- REV 02:8-11 - To Smyrna
+- REV 02:12-17 - To Pergamum
+- REV 02:18-29 - To Thyatira
+- REV 03:1-6 - To Sardis
+- REV 03:7-13 - To Philadelphia
+- REV 03:14-22 - To Laodicea
+- REV 04:1-11 - The throne in heaven
+- REV 05:1-14 - The scroll and the Lamb
+- REV 06:1-8 - The first four seals
+- REV 06:9-17 - The fifth and sixth seals
+- REV 07:1-8 - 144,000 sealed
+- REV 07:9-17 - Multitude from every nation
+- REV 08:1-5 - The seventh seal
+- REV 08:6-13 - The first four trumpets
+- REV 09:1-12 - The fifth trumpet
+- REV 09:13-21 - The sixth trumpet
+- REV 10:1-11 - The angel and the scroll
+- REV 11:1-14 - The two witnesses
+- REV 11:15-19 - The seventh trumpet
+- REV 12:1-17 - The woman and the dragon
+- REV 13:1-10 - The beast from the sea
+- REV 13:11-18 - The beast from the earth
+- REV 14:1-5 - The Lamb and the 144,000
+- REV 14:6-13 - Messages of three angels
+- REV 14:14-20 - The harvest of the earth
+- REV 15:1-8 - Seven angels with plagues
+- REV 16:1-9 - The first four bowls
+- REV 16:10-21 - The last three bowls
+- REV 17:1-18 - The great prostitute
+- REV 18:1-24 - The fall of Babylon
+- REV 19:1-10 - Rejoicing in heaven
+- REV 19:11-21 - The rider on the white horse
+- REV 20:1-6 - The thousand years
+- REV 20:7-15 - Satan's defeat and final judgment
+- REV 21:1-8 - The new heaven and earth
+- REV 21:9-27 - The new Jerusalem
+- REV 22:1-5 - The river of life
+- REV 22:6-21 - Jesus is coming
